@@ -1,584 +1,569 @@
 City_ID,City,Lat,Lng,Current Weather,Weather Description,Feels Like,Temp,Max Temp,Humidity,Cloudiness,Wind Speed,Date,Country
-0,Cayenne,4.9333,-52.3333,Clouds,broken clouds,92.37,84.24,84.24,74,75,16.11,2023-02-08,GF
-1,Khatanga,71.9667,102.5,Clouds,broken clouds,-57.3,-44.7,-44.7,100,69,4.52,2023-02-08,RU
-2,Mataura,-46.1927,168.8643,Rain,light rain,46.44,49.48,49.48,93,87,7.29,2023-02-08,NZ
-3,Moron,-34.6534,-58.6198,Rain,moderate rain,81.21,80.46,83.95,50,100,14.97,2023-02-08,AR
-4,Dikson,73.5069,80.5464,Clouds,overcast clouds,-9.18,3.42,3.42,79,100,15.9,2023-02-08,RU
-6,Busselton,-33.65,115.3333,Clear,clear sky,60.51,60.75,60.75,85,0,11.56,2023-02-08,AU
-7,Nikolskoye,59.7035,30.7861,Clouds,overcast clouds,27.09,33.39,33.8,93,100,7.11,2023-02-08,RU
-8,Kamina,-8.7386,24.9906,Clouds,broken clouds,64.76,64.26,64.26,93,76,1.97,2023-02-08,CD
-9,Arraial Do Cabo,-22.9661,-42.0278,Clouds,broken clouds,86.7,82.26,82.36,69,75,8.05,2023-02-08,BR
-10,Aklavik,68.2191,-135.0107,Clouds,broken clouds,-22,-22,-22,76,75,0,2023-02-08,CA
-11,Albany,42.6001,-73.9662,Clouds,broken clouds,39.07,40.62,42.58,60,55,3,2023-02-08,US
-12,Yerbogachen,61.2767,108.0108,Clouds,overcast clouds,-17.46,-6.41,-6.41,98,100,4.65,2023-02-08,RU
-13,Tasiilaq,65.6145,-37.6368,Clear,clear sky,-9.24,3.36,3.36,56,0,9.08,2023-02-08,GL
-15,Jalu,29.0331,21.5482,Clouds,overcast clouds,54.66,57.47,57.47,37,97,9.44,2023-02-08,LY
-16,Geraldton,-28.7667,114.6,Clear,clear sky,74.32,73.81,73.81,73,0,14.97,2023-02-08,AU
-17,Qaanaaq,77.484,-69.3632,Clouds,few clouds,-39.06,-26.46,-26.46,68,16,6.22,2023-02-08,GL
-18,Port Alfred,-33.5906,26.891,Clouds,overcast clouds,72.95,72.18,72.18,82,98,1.01,2023-02-08,ZA
-19,Golfito,8.639,-83.166,Clear,clear sky,91.98,87.67,87.67,54,8,4.16,2023-02-08,CR
-20,Isoka,-10.1606,32.6335,Rain,light rain,62.89,62.51,62.51,94,54,1.41,2023-02-08,ZM
-21,Punta Arenas,-53.15,-70.9167,Clouds,overcast clouds,70.59,71.71,71.71,43,100,13.8,2023-02-08,CL
-22,Alofi,-19.0595,-169.9187,Clouds,overcast clouds,78.69,76.89,76.89,94,91,3.44,2023-02-08,NU
-23,Jieshi,22.8134,115.8257,Clouds,overcast clouds,62.38,62.37,62.37,87,100,21.18,2023-02-08,CN
-24,Alyangula,-13.8483,136.4192,Clouds,overcast clouds,90.55,83.46,83.46,74,89,7.27,2023-02-08,AU
-25,Iwanai,42.9744,140.5089,Snow,light snow,10.31,22.91,22.91,74,100,18.12,2023-02-08,JP
-26,Pevek,69.7008,170.3133,Clouds,overcast clouds,-39.28,-26.68,-26.68,100,100,6.02,2023-02-08,RU
-27,Sokol,59.4617,40.1206,Clouds,overcast clouds,17.58,22.53,22.53,98,99,3.67,2023-02-08,RU
-28,Norman Wells,65.282,-126.8329,Clouds,scattered clouds,-39.1,-27.36,-27.36,75,40,3.44,2023-02-08,CA
-29,Rikitea,-23.1203,-134.9692,Rain,light rain,79.09,79.09,79.09,75,4,13.67,2023-02-08,PF
-30,Vila Do Maio,15.1333,-23.2167,Clouds,overcast clouds,72.66,72.39,72.39,71,100,13.82,2023-02-08,CV
-31,Pangnirtung,66.1451,-65.7125,Clouds,few clouds,-20.2,-20.2,-20.2,63,20,0,2023-02-08,CA
-32,Castro,-24.7911,-50.0119,Clear,clear sky,80.83,80.15,80.15,49,7,6.69,2023-02-08,BR
-33,Las Choapas,17.9333,-94.0833,Clouds,few clouds,78.93,77.77,77.77,78,13,4.34,2023-02-08,MX
-34,Qaqortoq,60.7167,-46.0333,Snow,light snow,5.38,17.98,17.98,92,100,13.22,2023-02-08,GL
-35,Ushuaia,-54.8,-68.3,Clouds,broken clouds,69.82,71.26,71.26,37,75,11.5,2023-02-08,AR
-36,Xaxim,-26.9617,-52.5347,Clear,clear sky,83.26,86.38,86.38,22,2,5.61,2023-02-08,BR
-37,Mount Isa,-20.7333,139.5,Clouds,overcast clouds,76.86,74.97,74.97,100,100,0,2023-02-08,AU
-38,Cabo San Lucas,22.8909,-109.9124,Clear,clear sky,69.93,71.69,72.61,29,0,6.91,2023-02-08,MX
-39,Pingliang,35.5392,106.6861,Clouds,overcast clouds,19.99,26.22,26.22,86,98,5.3,2023-02-08,CN
-40,Kumylzhenskaya,49.8809,42.5898,Clear,clear sky,-5.48,5.99,5.99,94,7,6.64,2023-02-08,RU
-41,Koumac,-20.5667,164.2833,Rain,light rain,79.52,77.85,77.85,89,100,2.01,2023-02-08,NC
-42,Viedma,-40.8135,-62.9967,Clear,clear sky,82.6,85.78,85.78,19,1,11.63,2023-02-08,AR
-43,Kapaa,22.0752,-159.319,Clear,clear sky,70.97,70.25,73.72,85,0,23.02,2023-02-08,US
-44,Oyama,36.3,139.8,Clouds,few clouds,44.58,44.58,44.58,69,18,2.3,2023-02-08,JP
-45,Portland,45.5234,-122.6762,Clouds,scattered clouds,33.73,37.67,42.04,95,40,5.01,2023-02-08,US
-47,Kahului,20.8947,-156.47,Clouds,few clouds,73.06,72.41,73.85,79,20,13.8,2023-02-08,US
-48,Barrow,71.2906,-156.7887,Clouds,overcast clouds,-29.18,-16.58,-16.58,69,100,4.61,2023-02-08,US
-49,Esperance,-33.8667,121.9,Clouds,few clouds,63.99,63.77,63.77,88,24,9.86,2023-02-08,AU
-50,Tazovskiy,67.4667,78.7,Snow,light snow,-7.19,5.41,5.41,93,100,19.39,2023-02-08,RU
-51,Hirado,33.3597,129.5531,Clouds,overcast clouds,44.64,49.86,49.86,58,100,14.25,2023-02-08,JP
-52,Blagoveshchenka,52.8333,79.8667,Clouds,overcast clouds,-9.8,-9.8,-9.8,100,94,1.45,2023-02-08,RU
-53,Nalut,30.3333,10.85,Clear,clear sky,62.11,64.76,64.76,25,0,19.62,2023-02-08,LY
-54,Lebu,-37.6167,-73.65,Clear,clear sky,65.89,66.24,66.24,71,1,13.71,2023-02-08,CL
-55,East London,-33.0153,27.9116,Rain,light rain,71.92,70.74,70.74,94,40,3.44,2023-02-08,ZA
-56,Labuhan,-6.8844,112.2051,Clouds,overcast clouds,79.7,78.06,78.06,88,96,9.8,2023-02-08,ID
-57,Pacific Grove,36.6177,-121.9166,Clear,clear sky,49.19,51.04,54.43,71,0,11.99,2023-02-08,US
-58,Cape Town,-33.9258,18.4232,Clear,clear sky,74.34,74.3,82.81,62,0,14.97,2023-02-08,ZA
-59,Ambon,-3.6954,128.1814,Rain,moderate rain,76.71,75.34,75.34,88,40,4.61,2023-02-08,ID
-60,Colares,38.7992,-9.4469,Clouds,broken clouds,54.39,55.87,56.89,69,75,12.66,2023-02-08,PT
-62,Yellowknife,62.456,-114.3525,Clouds,few clouds,-34.44,-23.28,-23.28,76,20,3.44,2023-02-08,CA
-64,Provideniya,64.3833,-173.3,Clouds,overcast clouds,-28.82,-17.34,-17.34,98,97,3.96,2023-02-08,RU
-65,Tilichiki,60.4667,166.1,Clouds,overcast clouds,-30.44,-17.84,-17.84,90,85,11.86,2023-02-08,RU
-66,Gushikawa,26.3544,127.8686,Clouds,overcast clouds,59.56,60.01,63.63,82,100,6.91,2023-02-08,JP
-67,Dombarovskiy,50.7587,59.5386,Clouds,scattered clouds,-13.02,-13.02,-13.02,100,45,2.51,2023-02-08,RU
-68,Chuy,-33.6971,-53.4616,Clouds,scattered clouds,88.32,88.74,88.74,38,31,8.39,2023-02-08,UY
-69,Atuona,-9.8,-139.0333,Clouds,few clouds,79.07,79.07,79.07,79,15,19.33,2023-02-08,PF
-70,Begoro,6.3871,-0.3774,Clouds,overcast clouds,86.38,84.6,84.6,52,98,5.37,2023-02-08,GH
-71,Sinnamary,5.3833,-52.95,Clouds,overcast clouds,79.7,78.1,78.1,87,92,12.53,2023-02-08,GF
-73,Chokurdakh,70.6333,147.9167,Clouds,overcast clouds,-39.69,-27.09,-27.09,98,100,5.59,2023-02-08,RU
-74,Nanortalik,60.1432,-45.2371,Snow,snow,20.3,27.16,27.16,89,100,6.2,2023-02-08,GL
-75,Hilo,19.7297,-155.09,Rain,light rain,70.47,69.8,71.33,85,100,5.75,2023-02-08,US
-76,Muros,42.7762,-9.0603,Clear,clear sky,53.83,55.65,55.65,62,0,4.12,2023-02-08,ES
-77,Snyder,32.7179,-100.9176,Clouds,overcast clouds,33.49,39.6,43.09,75,100,9.22,2023-02-08,US
-78,Bethel,41.3712,-73.414,Clouds,scattered clouds,38.57,44.73,48.02,64,40,12.66,2023-02-08,US
-80,Kaeo,-35.1,173.7833,Clouds,few clouds,59.32,59.32,59.32,93,16,4.61,2023-02-08,NZ
-81,Klaksvik,62.2266,-6.589,Clouds,broken clouds,25.77,38.32,38.32,66,76,32.32,2023-02-08,FO
-82,Hofn,64.2539,-15.2082,Clouds,few clouds,19.09,28.42,28.42,69,20,10.36,2023-02-08,IS
-83,Hamilton,39.1834,-84.5333,Clear,clear sky,40.69,45.03,48.22,68,0,8.05,2023-02-08,US
-84,Sorong,-0.8833,131.25,Clouds,overcast clouds,80.11,78.6,78.6,84,100,19.42,2023-02-08,ID
-85,Tselina,46.5338,41.0328,Clouds,broken clouds,6.94,19.54,19.54,87,77,13.73,2023-02-08,RU
-86,Taoudenni,22.6783,-3.9836,Clouds,broken clouds,76.42,78.37,78.37,11,81,10.11,2023-02-08,ML
-87,Hithadhoo,-0.6,73.0833,Clouds,few clouds,86.63,81.88,81.88,72,22,5.99,2023-02-08,MV
-90,Bengkulu,-3.8004,102.2655,Clouds,overcast clouds,76.66,75.38,75.38,86,91,5.26,2023-02-08,ID
-91,Noumea,-22.2763,166.4572,Clouds,overcast clouds,95.59,82.99,82.99,99,100,10.45,2023-02-08,NC
-92,Wattegama,6.7989,81.4808,Clouds,broken clouds,72.59,71.47,71.47,91,75,4.5,2023-02-08,LK
-93,Algiers,36.7525,3.042,Rain,light rain,50.34,51.62,51.62,82,40,5.75,2023-02-08,DZ
-94,San Nicolas,18.1725,120.5953,Clouds,scattered clouds,74.08,73.54,73.54,74,47,6.15,2023-02-08,PH
-95,Zhanakorgan,43.9098,67.2495,Clouds,overcast clouds,35.55,35.55,35.55,72,99,1.95,2023-02-08,KZ
-96,Bima,-8.4667,118.7167,Clouds,overcast clouds,78.49,76.75,76.75,93,98,3.06,2023-02-08,ID
-97,Thompson,55.7435,-97.8558,Clouds,broken clouds,12.36,12.36,12.36,92,75,2.3,2023-02-08,CA
-98,Dinan,48.4167,-2.25,Clear,clear sky,40.14,42.33,44.92,72,0,3.87,2023-02-08,FR
-99,Hami,42.8,93.45,Clear,clear sky,25.72,32.23,32.23,63,9,7.09,2023-02-08,CN
-100,Northam,51.0333,-4.2167,Clouds,scattered clouds,39.92,45.01,45.61,82,25,9.84,2023-02-08,GB
-101,Kushiro,42.975,144.3747,Clouds,scattered clouds,13.1,19.42,19.42,79,50,4.34,2023-02-08,JP
-102,Kodinar,20.7903,70.7031,Clear,clear sky,71.53,71.69,71.69,63,5,6.29,2023-02-08,IN
-103,Honningsvag,70.9821,25.9704,Drizzle,light intensity drizzle,26.47,38.95,38.95,65,100,33.38,2023-02-08,NO
-106,Bukachacha,52.9833,116.9167,Clouds,overcast clouds,-6.12,-6.12,-6.12,98,100,0.34,2023-02-08,RU
-107,Tiksi,71.6872,128.8694,Clouds,broken clouds,-52.73,-40.13,-40.13,98,53,6.26,2023-02-08,RU
-108,Hasaki,35.7333,140.8333,Clouds,broken clouds,33.08,41.4,41.4,66,84,16.93,2023-02-08,JP
-109,Sovetskiy,61.3614,63.5842,Clouds,broken clouds,0.16,10.8,10.8,94,82,6.78,2023-02-08,RU
-110,Hermanus,-34.4187,19.2345,Clear,clear sky,78.15,77.81,77.81,61,0,20.58,2023-02-08,ZA
-111,Fortuna,40.5982,-124.1573,Clouds,overcast clouds,41.07,44.33,45.93,96,100,5.75,2023-02-08,US
-112,Deputatskiy,69.3,139.9,Clouds,broken clouds,-58.05,-45.45,-45.45,99,70,4.47,2023-02-08,RU
-113,Kodiak,57.79,-152.4072,Clear,clear sky,9.66,15.31,15.31,79,0,3.44,2023-02-08,US
-114,Severo-Kurilsk,50.6789,156.125,Clouds,overcast clouds,9.21,21.81,21.81,66,96,16.35,2023-02-08,RU
-115,Bredasdorp,-34.5322,20.0403,Clear,clear sky,70.59,70.84,70.84,63,1,18.3,2023-02-08,ZA
-116,Hobart,-42.8794,147.3294,Clouds,overcast clouds,55.22,56.48,57.06,72,100,3.44,2023-02-08,AU
-117,Saint-Michel-Des-Saints,46.6834,-73.9159,Clouds,few clouds,13.19,22.35,22.35,76,11,7.87,2023-02-08,CA
-118,Saint-Leu,-21.15,55.2833,Rain,light rain,77.23,76.21,77.86,79,43,8.1,2023-02-08,RE
-119,Lata,40.1629,-8.3327,Clouds,scattered clouds,55.08,56.91,57.07,59,44,10.69,2023-02-08,PT
-120,Khandyga,62.6667,135.6,Clouds,overcast clouds,-48.42,-48.42,-48.42,100,99,2.15,2023-02-08,RU
-121,Leh,34.1667,77.5833,Clouds,broken clouds,3.38,3.38,3.38,65,75,2.39,2023-02-08,IN
-122,Aylmer,42.7668,-80.983,Clouds,few clouds,34.23,39.11,40.5,74,18,6.73,2023-02-08,CA
-123,Toora-Khem,52.4675,96.11,Clouds,overcast clouds,1.96,1.96,1.96,99,100,1.34,2023-02-08,RU
-124,Ulaangom,49.9811,92.0667,Clouds,overcast clouds,-23.48,-14.37,-14.37,92,100,3.13,2023-02-08,MN
-125,Port Hardy,50.6996,-127.4199,Clouds,broken clouds,32.18,32.18,32.18,100,75,2.3,2023-02-08,CA
-126,Lorengau,-2.0226,147.2712,Clouds,overcast clouds,78.76,77.29,77.29,86,100,9.91,2023-02-08,PG
-127,Honiara,-9.4333,159.95,Clouds,overcast clouds,79.84,78.31,78.31,85,100,2.17,2023-02-08,SB
-129,Ouadda,8.0777,22.4007,Clear,clear sky,79.02,81.07,81.07,14,9,6.13,2023-02-08,CF
-130,Aykhal,66,111.5,Clouds,broken clouds,-52.17,-39.57,-39.57,100,60,4.92,2023-02-08,RU
-131,New Norfolk,-42.7826,147.0587,Clouds,overcast clouds,51.13,53.08,56.7,65,100,1.28,2023-02-08,AU
-133,Victoria,22.2855,114.1577,Clouds,overcast clouds,65.88,65.57,66.96,86,100,15.01,2023-02-08,HK
-134,Karwar,14.8,74.1333,Clouds,scattered clouds,75.83,75.4,75.4,68,31,6.76,2023-02-08,IN
-135,Saint George,37.1041,-113.5841,Clear,clear sky,43.43,43.43,43.43,56,0,0,2023-02-08,US
-136,Vaini,-21.2,-175.2,Rain,light rain,79,77.16,77.16,94,75,4.61,2023-02-08,TO
-137,Kabompo,-13.5927,24.2008,Rain,light rain,67.28,66.47,66.47,95,92,4.09,2023-02-08,ZM
-138,Lokoja,7.8024,6.743,Clouds,scattered clouds,95.88,100.02,100.02,15,29,7.11,2023-02-08,NG
-139,Husavik,66.0449,-17.3389,Clouds,broken clouds,9.19,21.61,21.61,76,56,13.02,2023-02-08,IS
-140,Kramat,-8.1311,113.4499,Rain,light rain,75.9,74.3,74.3,95,82,1.68,2023-02-08,ID
-141,Kaohsiung,22.6163,120.3133,Haze,haze,68.92,68.56,69.04,81,75,8.05,2023-02-08,TW
-142,Zambezi,-13.5432,23.1047,Clouds,overcast clouds,68.86,68.25,68.25,87,92,5.41,2023-02-08,ZM
-143,Coquimbo,-29.9533,-71.3436,Clouds,broken clouds,67.82,67.73,67.73,77,75,11.5,2023-02-08,CL
-144,Carnarvon,-24.8667,113.6333,Clear,clear sky,78.73,77.68,77.68,76,9,23.96,2023-02-08,AU
-145,Milkovo,54.7167,158.6167,Clouds,overcast clouds,-3.21,-3.21,-3.21,100,100,1.48,2023-02-08,RU
-146,Hauterive,46.0901,3.4459,Clear,clear sky,43.02,45.36,45.36,45,0,4.63,2023-02-08,FR
-147,Talcahuano,-36.7167,-73.1167,Smoke,smoke,68.76,69.48,69.48,56,0,6.91,2023-02-08,CL
-148,Bluff,-46.6,168.3333,Clouds,broken clouds,42.66,49.8,49.8,67,71,23.98,2023-02-08,NZ
-149,Yendi,9.4427,-0.0099,Clouds,broken clouds,95.61,101.12,101.12,9,66,6.89,2023-02-08,GH
-150,Warangal,18,79.5833,Clouds,broken clouds,75.27,76.68,76.68,26,69,4.61,2023-02-08,IN
-151,Teguise,29.0605,-13.564,Clouds,broken clouds,58.23,59.22,59.22,72,75,5.75,2023-02-08,ES
-152,Leningradskiy,69.3833,178.4167,Clouds,overcast clouds,-35.86,-23.26,-23.26,93,100,5.1,2023-02-08,RU
-153,Luderitz,-26.6481,15.1594,Clear,clear sky,68.56,68.49,68.49,75,0,22.21,2023-02-08,NA
-154,Zeya,53.75,127.2667,Clear,clear sky,-37.68,-27.11,-27.11,97,8,3.04,2023-02-08,RU
-155,Bowen,-20.0167,148.2333,Clouds,overcast clouds,78.93,78.93,78.93,83,100,17.76,2023-02-08,AU
-156,Impfondo,1.6381,18.0667,Clouds,broken clouds,83.43,86.58,86.58,22,60,1.59,2023-02-08,CG
-157,Cherskiy,68.75,161.3,Clouds,overcast clouds,-36.36,-23.76,-23.76,98,100,7.45,2023-02-08,RU
-158,Souillac,-20.5167,57.5167,Rain,light rain,85.28,80.98,80.98,74,40,4.61,2023-02-08,MU
-159,Bac Lieu,9.285,105.7244,Clouds,scattered clouds,78.94,77.45,77.45,86,35,13.89,2023-02-08,VN
-161,Reading,51.4562,-0.9711,Clear,clear sky,37.54,43.27,44.8,65,0,10.36,2023-02-08,GB
-162,Los Llanos De Aridane,28.6585,-17.9182,Clouds,broken clouds,58.03,59.13,60.55,70,75,5.75,2023-02-08,ES
-163,Upernavik,72.7868,-56.1549,Clouds,few clouds,-37.03,-24.45,-24.45,89,23,3.96,2023-02-08,GL
-164,Farah,32.5,62.5,Clear,clear sky,53.29,55.67,55.67,50,2,6.04,2023-02-08,AF
-165,Domoni,-12.2569,44.5319,Clouds,overcast clouds,79.66,79.66,79.66,83,100,5.88,2023-02-08,KM
-166,Vila Velha,-20.3297,-40.2925,Clouds,scattered clouds,96.96,86.95,89.55,69,40,11.5,2023-02-08,BR
-167,Takapau,-40.0333,176.35,Clear,clear sky,57.18,57.72,57.72,85,2,4.23,2023-02-08,NZ
-168,Sydney,-33.8679,151.2073,Rain,light intensity shower rain,68.58,67.86,69.71,90,75,6.91,2023-02-08,AU
-169,Behshahr,36.6923,53.5526,Rain,light rain,41.29,44.55,44.55,91,100,5.82,2023-02-08,IR
-170,Neyshabur,36.2133,58.7958,Rain,light rain,41.83,45,45,60,17,5.79,2023-02-08,IR
-171,Buritis,-15.6178,-46.4233,Clear,clear sky,92.32,91.81,91.81,37,9,3.24,2023-02-08,BR
-172,Narsaq,60.9167,-46.05,Snow,light snow,-3.78,8.82,8.82,94,100,11.77,2023-02-08,GL
-173,Reconquista,-29.15,-59.65,Clear,clear sky,105.6,108.7,108.7,14,5,8.97,2023-02-08,AR
-174,Puerto Ayora,-0.7393,-90.3518,Rain,light rain,87.17,80.55,84.16,90,93,8.01,2023-02-08,EC
-175,Anchorage,61.2181,-149.9003,Clouds,overcast clouds,12.79,20.52,22.08,86,100,5.75,2023-02-08,US
-176,La Ronge,55.1001,-105.2842,Clouds,few clouds,5.95,17.85,17.85,67,20,10.36,2023-02-08,CA
-178,Alice Springs,-23.7,133.8833,Clear,clear sky,73.38,72.95,72.95,73,7,5.75,2023-02-08,AU
-179,Olafsvik,64.8945,-23.7142,Snow,light snow,12.25,24.85,24.85,74,100,19.17,2023-02-08,IS
-180,Clyde River,70.4692,-68.5914,Clouds,few clouds,-43.37,-30.77,-30.77,68,20,4.61,2023-02-08,CA
-181,Buraydah,26.326,43.975,Clouds,overcast clouds,54.75,57.65,57.65,35,100,9.24,2023-02-08,SA
-182,Fairbanks,64.8378,-147.7164,Snow,light snow,-8.12,-0.26,0.61,83,100,3.44,2023-02-08,US
-183,Nushki,29.5542,66.0215,Clouds,overcast clouds,63.73,65.77,65.77,36,96,8.63,2023-02-08,PK
-184,Sable-Sur-Sarthe,47.8376,-0.3329,Clear,clear sky,42.24,44.87,46.65,60,0,4.92,2023-02-08,FR
-185,Ribeira Grande,38.5167,-28.7,Clouds,scattered clouds,55.78,57.6,57.78,58,40,12.66,2023-02-08,PT
-186,Saint-Pierre,-21.3393,55.4781,Clear,clear sky,79.68,78.48,78.48,78,0,24.16,2023-02-08,RE
-187,Catamarca,-28.4696,-65.7852,Clouds,broken clouds,95.54,95.77,95.77,30,52,5.99,2023-02-08,AR
-188,Bathsheba,13.2167,-59.5167,Clouds,scattered clouds,89.53,83.01,83.01,74,40,18.41,2023-02-08,BB
-189,Komsomolskiy,40.4272,71.7189,Mist,mist,37.26,41.72,41.72,75,100,6.91,2023-02-08,UZ
-190,Jamestown,42.097,-79.2353,Clouds,scattered clouds,30.43,37.11,38.79,64,40,9.22,2023-02-08,US
-191,Port Macquarie,-31.4333,152.9167,Clouds,scattered clouds,65.89,65.89,65.89,79,29,4.9,2023-02-08,AU
-192,General Pico,-35.6566,-63.7568,Clear,clear sky,96.6,99.32,99.32,20,0,6.91,2023-02-08,AR
-193,Buala,-8.145,159.5921,Clouds,overcast clouds,79.75,79.75,79.75,84,100,6.15,2023-02-08,SB
-194,Port Blair,11.6667,92.75,Haze,haze,83.86,80.64,80.64,69,40,9.22,2023-02-08,IN
-195,Durant,33.994,-96.3708,Rain,heavy intensity rain,43.72,45.93,46.76,95,100,4.61,2023-02-08,US
-196,Camocim,-2.9022,-40.8411,Clouds,overcast clouds,89.85,84,84,68,95,10.63,2023-02-08,BR
-197,Poum,-20.2333,164.0167,Clouds,overcast clouds,85.53,80.46,80.46,82,100,9.84,2023-02-08,NC
-198,Bermejo,-32.8833,-68.8,Clouds,few clouds,86.79,87.71,87.71,37,20,4.61,2023-02-08,AR
-199,Tres Arroyos,-38.3739,-60.2798,Clouds,few clouds,89.73,91.71,91.71,29,12,15.52,2023-02-08,AR
-200,Murray Bridge,-35.1167,139.2667,Clear,clear sky,62.65,63.12,65.34,75,5,5.66,2023-02-08,AU
-202,Boddam,57.4667,-1.7833,Clouds,overcast clouds,34.25,44.78,46.78,64,100,34.87,2023-02-08,GB
-203,Penalva,-3.2942,-45.1736,Clouds,scattered clouds,90.95,82.74,82.74,81,41,3.89,2023-02-08,BR
-205,Rocha,-34.4833,-54.3333,Clouds,broken clouds,81.55,81.18,81.18,47,83,9.37,2023-02-08,UY
-206,Belmonte,-15.8631,-38.8828,Clouds,broken clouds,87.85,85.05,85.05,55,72,10.36,2023-02-08,BR
-207,Porto Novo,6.4965,2.6036,Clouds,broken clouds,96.66,87.62,87.62,65,84,11.81,2023-02-08,BJ
-208,Sechura,-5.5569,-80.8222,Clouds,few clouds,87.82,85.39,85.39,53,11,9.26,2023-02-08,PE
-209,Chon Buri,13.3,101.3,Clear,clear sky,79.03,79.03,83.34,99,1,8.52,2023-02-08,TH
-210,Limbang,4.75,115,Clouds,overcast clouds,79.07,77.11,77.11,97,99,2.53,2023-02-08,MY
-211,Kruisfontein,-34.0033,24.7314,Clouds,overcast clouds,69.87,69.89,69.89,70,100,12.91,2023-02-08,ZA
-212,Barcelona,41.3888,2.159,Clouds,broken clouds,43.95,49.66,51.82,69,75,16.11,2023-02-08,ES
-213,Ayia Galini,35.1,24.6833,Clouds,broken clouds,38.75,44.69,45.39,58,77,11.99,2023-02-08,GR
-214,Isangel,-19.55,169.2667,Rain,light rain,80.11,78.51,78.51,86,100,7.43,2023-02-08,VU
-215,Beni Mazar,28.4962,30.8029,Clouds,scattered clouds,53.64,56.28,56.28,43,40,7.56,2023-02-08,EG
-216,Lenggries,47.6833,11.5667,Clear,clear sky,22.84,26.91,28.44,90,3,3.49,2023-02-08,DE
-217,Severobaykalsk,55.65,109.3167,Clouds,overcast clouds,-9.83,0.79,0.79,94,99,5.17,2023-02-08,RU
-218,Kieta,-6.2167,155.6333,Clouds,overcast clouds,79.7,79.7,79.7,85,100,5.84,2023-02-08,PG
-220,Butaritari,3.0707,172.7902,Rain,light rain,85.28,80.28,80.28,83,81,20.94,2023-02-08,KI
-221,Arica,-18.475,-70.3042,Clear,clear sky,77.72,77.23,85.55,65,0,12.66,2023-02-08,CL
-222,George,-33.963,22.4617,Clouds,few clouds,69.42,69.35,69.35,73,20,21.85,2023-02-08,ZA
-223,Avarua,-21.2078,-159.775,Clouds,few clouds,75.2,73.45,73.45,100,23,1.14,2023-02-08,CK
-224,San Carlos De Bariloche,-41.1456,-71.3082,Clear,clear sky,75.4,76.75,76.75,27,0,6.91,2023-02-08,AR
-225,Marsh Harbour,26.5412,-77.0636,Clouds,few clouds,73.81,73.99,73.99,58,24,14.7,2023-02-08,BS
-226,Misratah,32.3754,15.0925,Clouds,overcast clouds,57.27,58.91,58.91,59,100,19.71,2023-02-08,LY
-227,Giovinazzo,41.1864,16.6674,Clouds,scattered clouds,37.38,44.06,45.82,52,40,13.8,2023-02-08,IT
-228,Katsuura,35.1333,140.3,Clouds,overcast clouds,40.03,45.52,45.52,82,89,11.25,2023-02-08,JP
-229,Sao Jose Da Coroa Grande,-8.8978,-35.1478,Clouds,overcast clouds,86.34,82.44,82.44,66,95,8.77,2023-02-08,BR
-230,Boyuibe,-20.4167,-63.2833,Clouds,broken clouds,91.92,91.31,91.31,38,70,6.82,2023-02-08,BO
-231,Nau,40.1525,69.3686,Clouds,overcast clouds,30.52,37.99,37.99,49,100,11.5,2023-02-08,TJ
-233,Abomsa,9.9833,39.9833,Clear,clear sky,71.53,72.93,72.93,34,3,4.5,2023-02-08,ET
-234,Port Elizabeth,-33.918,25.5701,Clouds,few clouds,72.36,72.1,72.32,71,20,9.22,2023-02-08,ZA
-235,Port Augusta,-32.5,137.7667,Clear,clear sky,76.12,77.67,77.67,21,2,3.42,2023-02-08,AU
-236,Burnie,-41.0667,145.9167,Clouds,overcast clouds,59.11,58.95,58.95,97,100,12.19,2023-02-08,AU
-237,Yamada,39.4667,141.95,Clouds,few clouds,21.07,27.66,27.66,73,19,5.99,2023-02-08,JP
-238,Lavrentiya,65.5833,-171,Clouds,overcast clouds,-21.28,-12.42,-12.42,90,100,3.13,2023-02-08,RU
-239,Cockburn Town,21.4612,-71.1419,Clear,clear sky,78.46,77.49,77.49,75,1,21.41,2023-02-08,TC
-240,Seymchan,62.8833,152.4333,Clouds,overcast clouds,-34.82,-34.82,-34.82,100,100,2.15,2023-02-08,RU
-241,Batagay,67.6333,134.6333,Clouds,broken clouds,-56.27,-56.27,-56.27,99,51,1.74,2023-02-08,RU
-242,Naze,28.3667,129.4833,Clouds,broken clouds,61.3,61.72,61.72,79,70,12.3,2023-02-08,JP
-243,Baykit,61.67,96.37,Clouds,overcast clouds,3.94,3.94,3.94,99,100,0.76,2023-02-08,RU
-244,Wilmington Island,32.0036,-80.9737,Clear,clear sky,69.8,70.12,73.04,63,0,6.91,2023-02-08,US
-245,Havre-Saint-Pierre,50.2334,-63.5986,Snow,light rain and snow,15.71,25.16,26.6,86,100,9.22,2023-02-08,CA
-246,Gigmoto,13.7796,124.39,Clouds,overcast clouds,78.31,77.27,77.27,77,100,11.23,2023-02-08,PH
-247,Mahebourg,-20.4081,57.7,Rain,light rain,85.1,80.89,80.89,74,40,4.61,2023-02-08,MU
-248,Davila,18.4726,120.5763,Clouds,scattered clouds,75.7,75.07,75.07,73,28,7.74,2023-02-08,PH
-249,Bundaberg,-24.85,152.35,Clouds,broken clouds,78.17,77.22,77.22,75,72,3,2023-02-08,AU
-250,Tyulgan,52.3405,56.166,Clouds,scattered clouds,-12.28,-3.69,-3.69,96,35,3.56,2023-02-08,RU
-251,Beloha,-25.1667,45.05,Rain,light rain,76.77,75.78,75.78,79,100,3.83,2023-02-08,MG
-252,Saint Joseph,39.7686,-94.8466,Clouds,broken clouds,40.06,42.64,43.25,56,59,4.36,2023-02-08,US
-253,Kousseri,12.0769,15.0306,Clouds,overcast clouds,90.18,94.96,94.96,10,100,10.36,2023-02-08,CM
-254,Guane,22.2025,-84.0875,Clouds,scattered clouds,84.97,83.25,83.25,54,45,15.75,2023-02-08,CU
-255,Igunga,-4.2833,33.8833,Rain,moderate rain,69.26,68.83,68.83,82,96,5.1,2023-02-08,TZ
-257,Eureka,40.8021,-124.1637,Clouds,scattered clouds,45.21,45.21,46.2,96,40,1.01,2023-02-08,US
-258,Phrae,18.0833,100,Clear,clear sky,68.5,69.76,69.76,44,0,0.72,2023-02-08,TH
-259,Haapiti,-17.5667,-149.8667,Clouds,few clouds,74.8,74.71,74.93,62,23,4.29,2023-02-08,PF
-260,Saskylakh,71.9167,114.0833,Clouds,overcast clouds,-46.95,-34.35,-34.35,99,96,5.17,2023-02-08,RU
-261,Itarema,-2.9248,-39.9167,Rain,light rain,89.8,84.61,84.61,64,97,14.03,2023-02-08,BR
-262,San Cristobal,7.7669,-72.225,Clouds,overcast clouds,74.5,75.38,75.38,40,88,8.66,2023-02-08,VE
-263,Konanur,12.6264,76.0542,Clouds,overcast clouds,69.12,70.2,70.2,47,100,2.46,2023-02-08,IN
-264,Kailua,21.4022,-157.7394,Rain,light rain,71.44,70.75,75.18,83,100,17.27,2023-02-08,US
-265,Lagoa,39.05,-27.9833,Clouds,overcast clouds,54.25,56.12,56.12,60,94,13.33,2023-02-08,PT
-266,Varnamo,57.186,14.04,Clouds,overcast clouds,31.62,34.03,34.05,1,100,3,2023-02-08,SE
-267,Camopi,3.1655,-52.3158,Clouds,broken clouds,87.91,81.73,81.73,79,71,5.53,2023-02-08,GF
-268,Kotaparh,19.15,82.35,Clouds,scattered clouds,63.72,66.09,66.09,28,41,5.12,2023-02-08,IN
-269,Bayeux,-7.125,-34.9322,Clouds,scattered clouds,93.79,88.43,88.43,55,40,12.66,2023-02-08,BR
-270,Qui Nhon,13.7667,109.2333,Clear,clear sky,75.02,73.76,73.76,89,6,2.39,2023-02-08,VN
-271,Kavaratti,10.5669,72.642,Clouds,broken clouds,79.84,79.84,79.84,74,60,9.82,2023-02-08,IN
-272,Zuwarah,32.9312,12.082,Rain,light rain,54.75,55.63,55.63,82,100,4.47,2023-02-08,LY
-273,Flinders,-34.5833,150.8552,Rain,moderate rain,69.55,68.67,69.19,92,93,5.01,2023-02-08,AU
-274,Sayat,38.7839,63.8803,Clouds,overcast clouds,48.85,51.67,51.67,49,100,11.99,2023-02-08,TM
-275,Zhenhai,24.2582,118.0905,Clouds,overcast clouds,59.34,59.68,59.68,85,100,17.85,2023-02-08,CN
-276,Faanui,-16.4833,-151.75,Rain,light rain,84.24,80.35,80.35,75,24,9.8,2023-02-08,PF
-277,Okhotsk,59.3833,143.3,Clouds,few clouds,-34.42,-21.82,-21.82,83,18,10.6,2023-02-08,RU
-278,Mpika,-11.8343,31.4529,Clouds,overcast clouds,61.75,61.57,61.57,92,92,7.2,2023-02-08,ZM
-279,Cantagalo,-21.9811,-42.3681,Clouds,overcast clouds,79.43,79.43,79.43,76,98,1.07,2023-02-08,BR
-280,Salalah,17.0151,54.0924,Clear,clear sky,76.19,75.29,75.29,78,0,3.44,2023-02-08,OM
-281,Portage,41.1667,-81.1998,Clouds,scattered clouds,36.09,38.93,41.7,70,45,4,2023-02-08,US
-282,Wajir,1.7471,40.0573,Clouds,few clouds,93.78,96.76,96.76,21,20,5.75,2023-02-08,KE
-283,Nimaparha,20.0667,86.0167,Clouds,broken clouds,77.04,75.6,75.6,89,58,7.47,2023-02-08,IN
-285,Kirakira,-10.4544,161.9205,Clouds,overcast clouds,84.92,80.06,80.06,84,100,6.24,2023-02-08,SB
-286,Namatanai,-3.6667,152.4333,Rain,light rain,78.76,78.76,78.76,82,100,3.13,2023-02-08,PG
-287,Smithers,54.7804,-127.1743,Clouds,broken clouds,23.32,23.32,23.32,93,75,2.3,2023-02-08,CA
-288,Andros Town,24.7,-77.7667,Clouds,scattered clouds,77.23,76.96,76.96,61,25,15.97,2023-02-08,BS
-289,Pervomayskiy,53.2485,40.2871,Clouds,broken clouds,3.36,13.87,13.87,93,51,7.31,2023-02-08,RU
-290,Ejura,7.3856,-1.3562,Clouds,overcast clouds,93.83,96.33,96.33,23,100,8.05,2023-02-08,GH
-291,Hinesville,31.8469,-81.5959,Clear,clear sky,71.96,72.3,75.13,58,0,5.75,2023-02-08,US
-292,La Rioja,42.25,-2.5,Clouds,broken clouds,37.99,40.78,40.78,81,76,4.25,2023-02-08,ES
-294,Ajdabiya,30.7554,20.2263,Clouds,overcast clouds,55.58,58.1,58.1,42,96,14.47,2023-02-08,LY
-295,Najran,17.4924,44.1277,Clouds,broken clouds,79.45,79.45,79.45,15,70,4.36,2023-02-08,SA
-296,Kaitangata,-46.2817,169.8464,Clouds,scattered clouds,41.47,47.26,47.26,75,44,13.76,2023-02-08,NZ
-297,Sultanpur,26.2667,82.0667,Clear,clear sky,55.78,58.06,58.06,47,0,7.25,2023-02-08,IN
-298,Severo-Yeniseyskiy,60.3725,93.0408,Clouds,overcast clouds,-7.76,-0.69,-0.69,98,100,3.04,2023-02-08,RU
-299,Saint-Philippe,-21.3585,55.7679,Rain,light rain,85.06,80.19,80.19,83,54,13.53,2023-02-08,RE
-300,San Patricio,28.017,-97.5169,Rain,moderate rain,55.13,55.85,62.44,85,92,18.43,2023-02-08,US
-301,Villa Carlos Paz,-31.4241,-64.4978,Clouds,few clouds,92.93,92.97,93.06,34,19,7.47,2023-02-08,AR
-302,Upata,8.0086,-62.3989,Clouds,overcast clouds,86.76,85.77,85.77,47,92,6.76,2023-02-08,VE
-303,Menemen,38.6075,27.0694,Clouds,few clouds,28.63,37.18,37.18,70,20,13.8,2023-02-08,TR
-305,Biltine,14.5333,20.9167,Clouds,broken clouds,79.95,79.95,79.95,7,72,12.97,2023-02-08,TD
-306,Korla,41.7597,86.1469,Clouds,scattered clouds,30.85,30.85,30.85,70,44,1.34,2023-02-08,CN
-307,Urengoy,65.9667,78.3667,Clouds,overcast clouds,-8.37,4.23,4.23,93,100,18.19,2023-02-08,RU
-308,Muriwai Beach,-36.8167,174.45,Clouds,broken clouds,60.01,60.28,63.77,85,61,12.64,2023-02-08,NZ
-309,Bambanglipuro,-7.95,110.2833,Clouds,overcast clouds,77.74,76.06,76.06,93,100,12.5,2023-02-08,ID
-310,Lasa,46.6166,10.7002,Clouds,scattered clouds,32.88,32.88,32.88,96,50,1.74,2023-02-08,IT
-313,Tuatapere,-46.1333,167.6833,Clouds,overcast clouds,40.55,45.52,45.52,86,92,9.84,2023-02-08,NZ
-314,Luis Correia,-2.8792,-41.6669,Clouds,overcast clouds,91.6,86.65,86.65,58,98,6.71,2023-02-08,BR
-315,Vila Franca Do Campo,37.7167,-25.4333,Clouds,broken clouds,56.08,57.61,57.61,64,51,12.46,2023-02-08,PT
-316,Cap Malheureux,-19.9842,57.6142,Clouds,overcast clouds,84.61,80.47,80.47,76,98,4,2023-02-08,MU
-317,Pisco,-13.7,-76.2167,Clear,clear sky,77.88,77.05,79.02,73,0,9.22,2023-02-08,PE
-318,Bograd,54.2344,90.8328,Clouds,overcast clouds,-1.77,5.31,5.31,90,94,3.44,2023-02-08,RU
-319,Wenling,28.3669,121.36,Clouds,overcast clouds,43.97,47.77,47.77,94,100,8.19,2023-02-08,CN
-320,College,64.8569,-147.8028,Snow,light snow,-0.24,-0.24,0.59,83,100,0,2023-02-08,US
-321,Swellendam,-34.0226,20.4417,Clouds,few clouds,73.81,74.12,74.12,55,14,19.48,2023-02-08,ZA
-322,Ulcinj,41.9294,19.2244,Clear,clear sky,27.66,36.99,37.62,51,10,15.99,2023-02-08,ME
-323,Abha,18.2164,42.5053,Clear,clear sky,58.03,59.25,60.62,67,0,5.75,2023-02-08,SA
-325,Tomakomai,42.6369,141.6033,Snow,light snow,10.8,10.8,20.17,92,75,2.3,2023-02-08,JP
-326,Nantucket,41.2835,-70.0995,Clouds,scattered clouds,39.88,46.51,48.25,61,40,16.11,2023-02-08,US
-327,Georgetown,5.4112,100.3354,Clouds,few clouds,78.75,78.75,82.33,94,20,3.44,2023-02-08,MY
-328,Talnakh,69.4865,88.3972,Clouds,overcast clouds,-22.4,-9.8,-9.8,96,100,8.97,2023-02-08,RU
-329,Witu,-2.3889,40.4382,Clouds,scattered clouds,86.63,80.76,80.76,84,26,12.44,2023-02-08,KE
-330,Sao Filipe,14.8961,-24.4956,Clouds,broken clouds,69.98,70.16,70.16,66,80,6.13,2023-02-08,CV
-332,China,25.7,-99.2333,Clouds,overcast clouds,57.31,59.2,59.2,53,100,25.08,2023-02-08,MX
-333,Kostomuksha,64.571,30.5767,Clouds,overcast clouds,17.22,28.2,28.2,94,86,13.76,2023-02-08,RU
-334,West Bay,19.3667,-81.4167,Clouds,scattered clouds,88.92,82.62,84.07,75,40,16.11,2023-02-08,KY
-335,Ishigaki,24.3448,124.1572,Clouds,overcast clouds,72.5,71.73,71.73,83,100,9.22,2023-02-08,JP
-336,Airai,-8.9266,125.4092,Clouds,overcast clouds,60.28,60.06,60.06,96,94,1.12,2023-02-08,TL
-337,Safaga,26.7292,33.9365,Clouds,overcast clouds,59.43,61.3,61.3,49,100,16.02,2023-02-08,EG
-340,Adrar,20.5022,-10.0711,Clouds,overcast clouds,74.25,76.3,76.3,13,100,12.19,2023-02-08,MR
-341,Seoul,37.5683,126.9778,Clear,clear sky,21.78,27.14,31.44,64,0,4.61,2023-02-08,KR
-342,Abu Dhabi,24.4667,54.3667,Clouds,broken clouds,71.6,70.77,71.71,86,67,11.5,2023-02-08,AE
-343,Tabou,4.423,-7.3528,Clouds,broken clouds,88.75,83.05,83.05,71,63,6.71,2023-02-08,CI
-344,Lonevag,60.5262,5.4937,Clouds,overcast clouds,39.24,46.35,47.28,76,100,18.01,2023-02-08,NO
-345,Kiunga,-6.1219,141.2906,Clouds,overcast clouds,75.04,73.35,73.35,99,100,5.01,2023-02-08,PG
-346,Shitkino,56.3703,98.3543,Clouds,overcast clouds,6.15,6.15,6.15,99,100,2.13,2023-02-08,RU
-347,Mocuba,-16.8392,36.9856,Clouds,overcast clouds,76.41,74.77,74.77,95,99,4.25,2023-02-08,MZ
-348,Horsham,51.064,-0.3272,Clear,clear sky,38.84,42.46,45.01,65,0,5.75,2023-02-08,GB
-349,Pokaran,26.9167,71.9167,Clear,clear sky,69.24,71.49,71.49,19,9,10.4,2023-02-08,IN
-350,Umm Lajj,25.0213,37.2685,Clouds,overcast clouds,65.37,66.52,66.52,53,100,17.65,2023-02-08,SA
-351,Sitka,57.0531,-135.33,Mist,mist,30.58,35.49,35.49,87,100,5.75,2023-02-08,US
-352,Kupang,-10.1667,123.5833,Clouds,overcast clouds,79.23,77.63,77.63,88,100,3.15,2023-02-08,ID
-354,Puro,12.4841,123.3827,Clouds,broken clouds,77.16,76.1,76.1,80,81,9.35,2023-02-08,PH
-355,Tuktoyaktuk,69.4541,-133.0374,Clear,clear sky,-43.6,-31,-31,68,0,4.61,2023-02-08,CA
-356,Guadalupe Y Calvo,26.1,-106.9667,Clear,clear sky,53.1,57.2,57.2,10,1,1.36,2023-02-08,MX
-357,Mahajanga,-15.7167,46.3167,Rain,light rain,90.68,82.42,82.42,83,40,5.75,2023-02-08,MG
-358,Sinaloa,25,-107.5,Clouds,few clouds,56.03,59.45,59.45,20,20,1.72,2023-02-08,MX
-360,Praia Da Vitoria,38.7333,-27.0667,Clouds,broken clouds,56.75,57.45,57.76,82,75,12.8,2023-02-08,PT
-361,Sangar,63.9242,127.4739,Clouds,overcast clouds,-59.58,-46.98,-46.98,98,87,3.11,2023-02-08,RU
-362,Wajima,37.4,136.9,Clouds,overcast clouds,31.01,38.88,38.88,55,99,13.13,2023-02-08,JP
-363,Peniche,39.3558,-9.3811,Clouds,overcast clouds,54.09,55.33,56.1,75,98,22.59,2023-02-08,PT
-364,Touros,-5.1989,-35.4608,Clouds,overcast clouds,88.61,86.49,86.49,50,96,14.27,2023-02-08,BR
-365,Lufilufi,-13.8745,-171.5986,Rain,light rain,75.94,74.98,74.98,80,82,14.67,2023-02-08,WS
-366,Bilma,18.6853,12.9164,Clouds,overcast clouds,75.87,77.77,77.77,13,98,6.98,2023-02-08,NE
-367,Beaune,47.0833,4.75,Clear,clear sky,32.49,35.24,35.24,75,4,3.4,2023-02-08,FR
-368,Okha,53.5739,142.9478,Clouds,overcast clouds,-34.82,-22.22,-22.22,96,100,11.07,2023-02-08,RU
-369,Gejiu,23.306,103.1635,Clear,clear sky,44.19,45.36,45.36,85,6,3.24,2023-02-08,CN
-370,Surt,31.2089,16.5887,Clouds,broken clouds,57.88,59.81,59.81,51,78,18.66,2023-02-08,LY
-371,Sarakhs,36.5449,61.1577,Clouds,broken clouds,51.73,53.74,53.74,62,75,23.02,2023-02-08,IR
-372,Ponta Do Sol,32.6667,-17.1,Rain,light rain,61.3,63.12,63.23,46,71,6.13,2023-02-08,PT
-373,Catuday,16.2923,119.8062,Clouds,overcast clouds,77.88,77.09,77.09,72,100,14.25,2023-02-08,PH
-375,Kalach-Na-Donu,48.691,43.5264,Clear,clear sky,-0.15,10.96,10.96,95,6,7.29,2023-02-08,RU
-376,Nanlong,31.3533,106.0631,Clouds,overcast clouds,48.88,50.04,50.04,88,100,3.11,2023-02-08,CN
-377,Libertador General San Martin,-23.8064,-64.7876,Clouds,scattered clouds,99.54,98.98,98.98,28,47,7.31,2023-02-08,AR
-378,Gladstone,-23.85,151.25,Clouds,scattered clouds,75.58,75.13,75.13,69,40,9.22,2023-02-08,AU
-379,Chapada Dos Guimaraes,-15.4606,-55.7497,Clouds,overcast clouds,83.98,83.86,83.86,45,98,3.02,2023-02-08,BR
-380,Alamos,27.0167,-108.9333,Clear,clear sky,67.3,70.16,70.16,9,0,3.06,2023-02-08,MX
-381,Samarai,-10.6167,150.6667,Rain,light rain,78.31,76.59,76.59,93,100,8.52,2023-02-08,PG
-382,Broome,42.2506,-75.833,Clouds,broken clouds,32.43,40.46,43.66,62,75,14.97,2023-02-08,US
-383,Tabas,33.5959,56.9244,Clouds,few clouds,53.31,56.21,56.21,38,11,10.33,2023-02-08,IR
-384,Ikot Ekpene,5.1794,7.7108,Clouds,scattered clouds,94.37,91.35,91.35,44,38,10.76,2023-02-08,NG
-385,Yining,29.0361,114.5636,Clouds,overcast clouds,45.82,46.96,46.96,97,100,3.44,2023-02-08,CN
-386,Bambous Virieux,-20.3428,57.7575,Clouds,scattered clouds,85.03,80.85,80.85,74,40,4.61,2023-02-08,MU
-387,Mar Del Plata,-38.0023,-57.5575,Clear,clear sky,76.71,75.94,78.82,74,0,5.75,2023-02-08,AR
-388,Shimoda,34.6667,138.95,Clouds,broken clouds,37.04,43.11,43.11,66,84,11.16,2023-02-08,JP
-389,Dunyapur,29.7995,71.7196,Clouds,broken clouds,62.89,65.3,65.3,29,70,5.26,2023-02-08,PK
-390,Codrington,-38.2667,141.9667,Clouds,broken clouds,53.31,54.16,54.16,86,69,6.17,2023-02-08,AU
-391,Marquette,46.5333,-87.6335,Clouds,scattered clouds,33.12,37.87,38.77,61,41,6.15,2023-02-08,US
-393,Conroe,30.3119,-95.456,Clouds,overcast clouds,74.3,73.53,77.67,79,100,18.41,2023-02-08,US
-394,Rabo De Peixe,37.8,-25.5833,Clouds,broken clouds,55.47,56.71,56.71,72,75,11.5,2023-02-08,PT
-395,Gohpur,26.8833,93.6333,Clouds,few clouds,57.88,59.04,59.04,69,17,1.74,2023-02-08,IN
-396,Aranjuez,40.0311,-3.6025,Clouds,overcast clouds,50.18,52.03,52.32,69,100,7.56,2023-02-08,ES
-397,Kolondieba,11.0882,-6.8926,Clouds,scattered clouds,94.19,98.67,98.67,14,34,7.99,2023-02-08,ML
-398,Eenhana,-17.4667,16.3333,Clouds,overcast clouds,70.63,71.35,71.35,52,100,6.02,2023-02-08,NA
-399,Pinugay,14.5967,121.2623,Clouds,overcast clouds,75.58,74.79,74.86,77,99,7.56,2023-02-08,PH
-400,Soyo,-6.1349,12.3689,Clouds,scattered clouds,88.25,82.2,82.2,76,46,13.18,2023-02-08,AO
-401,Vrhnika,45.9661,14.2956,Clouds,few clouds,21.58,30.33,32.49,68,21,10.16,2023-02-08,SI
-402,Abilene,32.4487,-99.7331,Clouds,overcast clouds,33.84,41.56,42.19,87,100,14.97,2023-02-08,US
-403,Katangli,51.7102,143.2326,Clouds,broken clouds,-38.85,-26.25,-26.25,96,77,8.05,2023-02-08,RU
-404,Tautira,-17.7333,-149.15,Clouds,scattered clouds,79.72,79.72,79.72,71,32,7.16,2023-02-08,PF
-405,Goundam,16.4145,-3.6708,Clouds,scattered clouds,90.1,94.96,94.96,8,33,10.89,2023-02-08,ML
-406,Banamba,13.55,-7.45,Clear,clear sky,92.46,97.63,97.63,9,1,12.01,2023-02-08,ML
-407,Cordoba,-31.4135,-64.1811,Clouds,scattered clouds,87.53,88.7,96.42,35,40,10.36,2023-02-08,AR
-408,Manaure,11.7751,-72.4445,Clear,clear sky,88.39,85.77,85.77,53,6,22.48,2023-02-08,CO
-409,Bayan,46.0833,127.4,Clouds,scattered clouds,-20.67,-10.59,-10.59,100,43,3.78,2023-02-08,CN
-410,Udaipur,24.5712,73.6918,Clear,clear sky,58.55,61.7,61.7,21,2,2.98,2023-02-08,IN
-411,Zhigansk,66.7697,123.3711,Clouds,overcast clouds,-55.93,-43.33,-43.33,99,99,7.05,2023-02-08,RU
-412,Tamboril,19.4854,-70.611,Clouds,scattered clouds,76.28,74.95,79.48,88,40,9.22,2023-02-08,DO
-413,Nanga Eboko,4.6833,12.3667,Clouds,few clouds,83.43,86.9,86.9,17,17,2.21,2023-02-08,CM
-414,Ahipara,-35.1667,173.1667,Clear,clear sky,61.81,61.92,61.92,85,3,7.23,2023-02-08,NZ
-416,Shar,49.5886,81.0453,Clouds,overcast clouds,4.46,4.46,4.46,99,100,1.45,2023-02-08,KZ
-417,Goderich,43.7501,-81.7165,Clouds,scattered clouds,30.29,35.92,38.91,80,38,6.91,2023-02-08,CA
-418,Pekan,3.4836,103.3996,Clouds,overcast clouds,78.66,77.11,77.11,88,86,7.58,2023-02-08,MY
-420,Biak,-0.9131,122.8766,Clouds,overcast clouds,76.26,75.15,75.15,83,100,5.21,2023-02-08,ID
-421,Rapar,23.5667,70.6333,Clear,clear sky,68.56,70.57,70.57,26,0,1.61,2023-02-08,IN
-422,Diffa,13.3154,12.6113,Clouds,broken clouds,78.35,80.02,80.02,15,68,8.16,2023-02-08,NE
-423,Stoholm,56.4845,9.1462,Clouds,broken clouds,28.17,36.95,36.95,88,61,14.32,2023-02-08,DK
-424,Kavieng,-2.5744,150.7967,Clouds,overcast clouds,84.94,80.33,80.33,80,100,8.46,2023-02-08,PG
-425,Monroe,43.1501,-77.6831,Clouds,scattered clouds,33.33,41.67,44.37,63,40,17.27,2023-02-08,US
-426,Benjamin Hill,30.1667,-111.1,Clouds,few clouds,51.49,55.15,55.15,24,14,6.51,2023-02-08,MX
-427,Blackwater,-23.5833,148.8833,Clouds,scattered clouds,71.17,70.86,70.86,75,41,12.24,2023-02-08,AU
-428,Pakruojis,55.9667,23.8667,Clouds,overcast clouds,21.7,30.99,30.99,86,100,11.56,2023-02-08,LT
-429,Oyem,1.5995,11.5793,Clouds,broken clouds,81.91,81.84,81.84,45,63,2.35,2023-02-08,GA
-431,Mount Gambier,-37.8333,140.7667,Clouds,few clouds,54.27,54.55,54.55,97,11,4.81,2023-02-08,AU
-432,Meadow Lake,34.8014,-106.5436,Clouds,few clouds,28.06,33.55,37.13,74,11,6.02,2023-02-08,US
-433,Amapa,1,-52,Clouds,overcast clouds,79.88,78.01,78.01,93,99,4,2023-02-08,BR
-435,Mitzic,0.7821,11.549,Clouds,overcast clouds,82.94,80.8,80.8,61,90,3.11,2023-02-08,GA
-436,Egvekinot,66.3167,-179.1667,Clouds,overcast clouds,-30.21,-17.61,-17.61,94,100,6.31,2023-02-08,RU
-437,Saint-Louis,16.3333,-15,Clouds,broken clouds,83.82,87.44,87.44,10,82,10.76,2023-02-08,SN
-438,Vaitape,-16.5167,-151.75,Rain,light rain,84.24,80.35,80.35,75,25,9.8,2023-02-08,PF
-439,Hay River,60.8156,-115.7999,Clouds,few clouds,-16.62,-16.62,-14.84,76,20,2.3,2023-02-08,CA
-440,Zaria,11.1113,7.7227,Clouds,overcast clouds,82.9,86.31,86.31,10,97,11.48,2023-02-08,NG
-441,Laguna,38.421,-121.4238,Mist,mist,41.34,41.34,53.08,94,0,0,2023-02-08,US
-442,Luganville,-15.5333,167.1667,Clouds,overcast clouds,78.78,77.18,77.18,89,100,7.34,2023-02-08,VU
-443,Oistins,13.0667,-59.5333,Clouds,scattered clouds,88.38,82.49,82.49,74,40,18.41,2023-02-08,BB
-444,Yorkton,51.2167,-102.4677,Snow,snow,21.04,21.04,21.04,93,100,2.3,2023-02-08,CA
-445,Sawakin,19.1059,37.3321,Clouds,broken clouds,71.42,71.64,71.64,62,81,16.53,2023-02-08,SD
-446,Seguin,29.5688,-97.9647,Rain,light rain,42.04,47.97,49.12,94,100,14.97,2023-02-08,US
-447,Curup,-3.4667,102.5333,Clouds,overcast clouds,67.01,66.22,66.22,95,97,1.28,2023-02-08,ID
-448,Ilulissat,69.2167,-51.1,Clear,clear sky,-20.18,-7.58,-7.58,54,0,12.66,2023-02-08,GL
-449,Miri,4.4148,114.0089,Clouds,scattered clouds,78.98,77.14,77.14,94,40,2.3,2023-02-08,MY
-450,Yar-Sale,66.8333,70.8333,Clouds,overcast clouds,0.59,13.19,13.19,95,99,12.01,2023-02-08,RU
-451,Athabasca,54.7169,-113.2854,Clouds,overcast clouds,-2.63,7.21,7.21,84,85,5.46,2023-02-08,CA
-452,Saldanha,-33.0117,17.9442,Clouds,scattered clouds,98.65,86.05,86.05,79,35,17.07,2023-02-08,ZA
-453,Timizart,36.8,4.2667,Rain,light rain,45.52,48.79,48.79,91,100,7.49,2023-02-08,DZ
-454,Rio Grande,-32.035,-52.0986,Clear,clear sky,106.2,95.11,95.11,51,6,12.62,2023-02-08,BR
-455,Nemuro,43.3236,145.575,Clouds,overcast clouds,21.83,21.83,21.83,80,95,1.19,2023-02-08,JP
-456,Makueni,-1.8041,37.6203,Clouds,broken clouds,70.27,70.84,70.84,56,75,6.29,2023-02-08,KE
-457,Margate,51.3813,1.3862,Clouds,few clouds,38.1,40.68,43.7,61,24,4,2023-02-08,GB
-458,Barahona,18.2085,-71.1008,Clouds,few clouds,95.77,89.42,89.42,55,20,11.5,2023-02-08,DO
-459,Nemesnadudvar,46.3405,19.0511,Clear,clear sky,22.59,29.62,29.62,64,4,7.07,2023-02-08,HU
-461,Makakilo City,21.3469,-158.0858,Clouds,scattered clouds,70.52,70.52,73.72,69,40,12.66,2023-02-08,US
-462,Yartsevo,55.0667,32.6964,Clouds,overcast clouds,14.81,23.29,23.29,95,100,7.23,2023-02-08,RU
-463,Ancud,-41.8697,-73.8203,Clear,clear sky,64.94,65.41,65.41,70,5,9.33,2023-02-08,CL
-464,El Alto,-4.2714,-81.2147,Clouds,few clouds,90.81,85.66,85.66,61,11,12.48,2023-02-08,PE
-465,Dunedin,-45.8742,170.5036,Clouds,few clouds,42.58,48.81,48.81,67,23,17.34,2023-02-08,NZ
-466,Hangu,39.2489,117.7892,Clouds,overcast clouds,24.01,30.24,30.24,55,100,6.15,2023-02-08,CN
-467,Nome,64.5011,-165.4064,Clouds,overcast clouds,-2.13,-2.13,-2.13,78,100,0,2023-02-08,US
-468,Tacuarembo,-31.7333,-55.9833,Clouds,scattered clouds,95.65,100.06,100.06,14,40,6.33,2023-02-08,UY
-469,Yarmouth,41.7057,-70.2286,Clear,clear sky,40.55,46.29,48.96,65,0,12.66,2023-02-08,US
-470,Nagua,19.3832,-69.8474,Clouds,scattered clouds,87.06,82.45,82.71,69,40,13.8,2023-02-08,DO
-471,Kushima,31.4583,131.2333,Clouds,overcast clouds,48.25,50.07,50.07,74,94,7.52,2023-02-08,JP
-472,Nauta,-4.5061,-73.5757,Rain,heavy intensity rain,87.39,81.41,81.41,80,84,2.21,2023-02-08,PE
-473,Constitucion,-35.3333,-72.4167,Clear,clear sky,71.28,71.85,71.85,54,5,5.86,2023-02-08,CL
-474,Vila,42.0304,-8.1588,Clear,clear sky,48.92,50.88,50.88,69,4,4.56,2023-02-08,PT
-475,Westport,41.1415,-73.3579,Clear,clear sky,42.51,47.84,50.27,60,0,12.66,2023-02-08,US
-476,Tura,25.5198,90.2201,Clouds,scattered clouds,60.76,62.42,62.42,51,26,3.11,2023-02-08,IN
-477,Kiruna,67.8557,20.2251,Clear,clear sky,22.12,34.72,34.72,64,0,37.98,2023-02-08,SE
-478,Pozo Colorado,-23.4923,-58.7972,Clouds,scattered clouds,96.73,94.86,94.86,36,39,7.09,2023-02-08,PY
-479,Buxton,53.2574,-1.9098,Clouds,overcast clouds,32.72,39.43,42.42,62,100,10.51,2023-02-08,GB
-480,Rajbiraj,26.5333,86.75,Clear,clear sky,61.32,62.85,62.85,53,0,6.53,2023-02-08,NP
-481,Anadyr,64.75,177.4833,Clear,clear sky,-41.3,-28.7,-28.7,75,0,11.18,2023-02-08,RU
-482,Divnoye,45.9089,43.3547,Snow,light snow,9.91,21.56,21.56,87,100,11.52,2023-02-08,RU
-483,Tainan,22.9908,120.2133,Mist,mist,62.71,62.62,67.87,88,75,8.05,2023-02-08,TW
-484,Port Lincoln,-34.7333,135.8667,Clouds,broken clouds,65.93,65.97,65.97,78,71,12.28,2023-02-08,AU
-485,Lewistown,40.5992,-77.5714,Clear,clear sky,43.16,46.09,49.19,57,0,5.75,2023-02-08,US
-486,Udachnyy,66.4167,112.4,Clouds,overcast clouds,-55.16,-42.56,-42.56,100,97,4.18,2023-02-08,RU
-487,Valle Del Guamuez,0.4525,-76.9192,Clouds,broken clouds,75.13,74.62,74.62,71,67,2.37,2023-02-08,CO
-488,Thinadhoo,0.5333,72.9333,Clouds,scattered clouds,86.68,81.79,81.79,73,40,9.06,2023-02-08,MV
-489,Queenstown,-31.8976,26.8753,Rain,light rain,60.42,60.4,60.4,91,100,6.96,2023-02-08,ZA
-491,Ulagan,50.6321,87.9563,Snow,light snow,12.81,12.81,12.81,94,100,2.71,2023-02-08,RU
-492,Trenggalek,-8.05,111.7167,Clouds,overcast clouds,76.68,75,75,95,100,3.96,2023-02-08,ID
-493,Berlevag,70.8578,29.0864,Clear,clear sky,24.33,36.93,39.2,65,0,43.73,2023-02-08,NO
-494,Rio Gallegos,-51.6226,-69.2181,Clouds,broken clouds,72.05,73.45,73.45,33,75,31.07,2023-02-08,AR
-495,Hearst,49.6835,-83.6665,Clouds,overcast clouds,17.04,25.05,25.05,91,100,7.11,2023-02-08,CA
-496,Umm Kaddadah,13.6017,26.6876,Clouds,broken clouds,63.43,66.56,66.56,11,51,12.46,2023-02-08,SD
-497,Namibe,-15.1961,12.1522,Clouds,overcast clouds,74.75,74.41,74.41,68,100,13.31,2023-02-08,AO
-498,Kralendijk,12.15,-68.2667,Clouds,scattered clouds,88.11,84.18,84.18,61,40,20.71,2023-02-08,BQ
-499,Mount Darwin,-16.7725,31.5838,Clouds,broken clouds,70.41,69.69,69.69,86,78,2.39,2023-02-08,ZW
-501,Porto Walter,-8.2686,-72.7439,Clouds,scattered clouds,93.83,90.3,90.3,47,39,3.87,2023-02-08,BR
-502,Tete,-16.1564,33.5867,Clouds,broken clouds,97.81,87.89,87.89,66,75,3.44,2023-02-08,MZ
-503,Buluang,13.3068,123.3425,Clouds,overcast clouds,72.1,70.99,70.99,92,97,3.51,2023-02-08,PH
-504,Sabang,5.8933,95.3214,Clouds,overcast clouds,86.67,81.19,81.19,79,100,12.19,2023-02-08,ID
-505,Dali,25.7,100.1833,Clear,clear sky,38.41,42.03,42.03,57,0,5.64,2023-02-08,CN
-506,Ostrovnoy,68.0531,39.5131,Clouds,broken clouds,14.34,26.94,26.94,77,58,32.41,2023-02-08,RU
-507,Te Anau,-45.4167,167.7167,Clouds,broken clouds,43.29,43.29,43.29,80,81,1.97,2023-02-08,NZ
-508,Bonavista,48.6499,-53.1147,Snow,snow,17.44,30.04,30.04,97,100,20.47,2023-02-08,CA
-509,Coihaique,-45.5752,-72.0662,Clouds,broken clouds,68.86,69.75,72.21,52,75,11.5,2023-02-08,CL
-510,Wembley,-31.9333,115.8,Clear,clear sky,68.32,67.71,70.02,88,0,8.05,2023-02-08,AU
-511,Nerchinskiy Zavod,51.3088,119.61,Clouds,overcast clouds,-22.52,-22.52,-22.52,100,90,2.24,2023-02-08,RU
-512,Dingle,10.9995,122.6711,Clouds,broken clouds,74.26,72.99,72.99,91,84,8.03,2023-02-08,PH
-513,Monrovia,6.3005,-10.7969,Clouds,overcast clouds,100.13,87.57,87.57,72,100,8.59,2023-02-08,LR
-514,Hambantota,6.1241,81.1185,Clouds,overcast clouds,78.19,77.11,77.11,78,95,14.58,2023-02-08,LK
-515,Savannah Bight,16.45,-85.85,Clear,clear sky,79.63,78.51,78.51,76,1,16.22,2023-02-08,HN
-516,Zastavna,48.5231,25.8437,Clouds,few clouds,20.19,20.19,20.19,92,13,1.05,2023-02-08,UA
-517,Pirapora,-17.345,-44.9419,Clouds,overcast clouds,90.66,88.86,88.86,45,89,0.83,2023-02-08,BR
-518,Linxia,35.6003,103.2064,Clouds,overcast clouds,24.26,24.26,24.26,93,96,0.25,2023-02-08,CN
-519,Meulaboh,4.1363,96.1285,Clouds,overcast clouds,76.98,75.54,75.54,89,100,3.42,2023-02-08,ID
-520,Tessalit,20.1986,1.0114,Clouds,broken clouds,81.88,84.99,84.99,10,64,11.99,2023-02-08,ML
-521,Swidwin,53.7746,15.7767,Clouds,few clouds,18.66,27.34,27.34,67,12,8.79,2023-02-08,PL
-522,Padang,-0.9492,100.3543,Rain,moderate rain,78.49,77.05,77.05,86,34,4.05,2023-02-08,ID
-523,Port Hedland,-20.3167,118.5667,Clear,clear sky,98.65,86.05,86.05,79,0,11.5,2023-02-08,AU
-524,Myanaung,18.2833,95.3167,Clear,clear sky,67.78,69.31,69.31,39,1,6.78,2023-02-08,MM
-525,Dixon,38.4455,-121.8233,Clear,clear sky,42.75,42.75,50.27,87,0,0,2023-02-08,US
-526,Almaty,43.25,76.95,Fog,fog,16.99,22.91,22.91,93,100,4.47,2023-02-08,KZ
-527,Axim,4.8699,-2.2405,Clouds,overcast clouds,88.05,82.83,82.83,70,100,8.52,2023-02-08,GH
-528,Rognan,67.0953,15.3878,Clouds,overcast clouds,46.78,50.05,50.14,43,100,29.46,2023-02-08,NO
-529,San Martin,-33.081,-68.4681,Clear,clear sky,85.6,88.34,88.34,27,1,8.21,2023-02-08,AR
-530,Newport,51.5877,-2.9984,Clear,clear sky,40.51,44.62,45.54,83,9,7.36,2023-02-08,GB
-531,Merauke,-8.4667,140.3333,Rain,light rain,78.76,77,77,93,100,9.69,2023-02-08,ID
-532,Brovst,57.0956,9.528,Clouds,scattered clouds,27.93,35.53,35.96,93,40,10.36,2023-02-08,DK
-533,Pitea,65.3172,21.4794,Clouds,overcast clouds,23.92,33.89,33.89,87,100,15.26,2023-02-08,SE
-534,Banjarmasin,-3.3244,114.591,Rain,moderate rain,72.95,71.74,71.74,92,69,3.56,2023-02-08,ID
-535,Puerto Escondido,15.85,-97.0667,Clear,clear sky,86.02,85.03,85.03,48,0,6.26,2023-02-08,MX
-536,Tommot,58.9564,126.2925,Clouds,overcast clouds,-19.16,-19.16,-19.16,98,100,2.57,2023-02-08,RU
-537,Banganapalle,15.3167,78.2333,Clouds,overcast clouds,79.23,79.23,79.23,52,89,6.02,2023-02-08,IN
-538,Anloga,5.7947,0.8973,Clouds,overcast clouds,89.98,83.08,83.08,75,100,14.88,2023-02-08,GH
-539,Bubaque,11.2833,-15.8333,Clear,clear sky,77.92,77.68,77.68,59,1,12.48,2023-02-08,GW
-540,Troy,42.6056,-83.1499,Clear,clear sky,37.99,41.74,43.43,70,0,5.75,2023-02-08,US
-541,Pangai,-19.8,-174.35,Rain,light rain,85.39,81.23,81.23,72,100,4.54,2023-02-08,TO
-542,Gazanjyk,39.2446,55.5154,Clouds,overcast clouds,42.53,46.31,46.31,75,100,7.45,2023-02-08,TM
-543,Malkangiri,18.35,81.9,Clouds,scattered clouds,67.37,69.28,69.28,31,32,2.1,2023-02-08,IN
-544,Kutum,14.2,24.6667,Clouds,broken clouds,62.2,65.48,65.48,10,53,11.07,2023-02-08,SD
-545,Brae,60.3964,-1.353,Rain,moderate rain,30.7,40.75,40.75,86,100,23.44,2023-02-08,GB
-546,Zyryanka,65.75,150.85,Clouds,overcast clouds,-30.69,-30.69,-30.69,98,99,2.37,2023-02-08,RU
-547,Torbay,47.6666,-52.7314,Snow,light snow,21.61,32.61,33.89,94,100,17.27,2023-02-08,CA
-548,Paita,-5.0892,-81.1144,Clouds,few clouds,84.56,81.84,81.84,62,15,10.89,2023-02-08,PE
-549,Muri,23.3667,85.8667,Clear,clear sky,62.55,64.78,64.78,34,0,3.85,2023-02-08,IN
-550,Yulara,-25.2406,130.9889,Clear,clear sky,81.36,82.81,82.81,33,0,8.97,2023-02-08,AU
-551,Comodoro Rivadavia,-45.8667,-67.5,Clear,clear sky,82.9,85.86,85.86,23,0,16.11,2023-02-08,AR
-552,Alappuzha,9.49,76.3264,Clouds,overcast clouds,78.89,78.89,78.89,77,87,0.78,2023-02-08,IN
-554,Sao Joao Da Barra,-21.6403,-41.0511,Clouds,overcast clouds,95.59,84.29,84.29,82,99,8.25,2023-02-08,BR
-555,Richards Bay,-28.783,32.0377,Rain,moderate rain,75.78,74.32,74.32,92,97,10.27,2023-02-08,ZA
-556,Taltal,-25.4,-70.4833,Clouds,few clouds,74.3,73.92,73.92,70,20,6.58,2023-02-08,CL
-558,Chichimila,20.6167,-88.2167,Clouds,few clouds,81.52,80.65,80.65,51,12,8.86,2023-02-08,MX
-559,Algeciras,36.1333,-5.4505,Clouds,broken clouds,56.12,56.88,56.88,82,75,17.27,2023-02-08,ES
-560,Fuerte,17.5381,120.3644,Clouds,scattered clouds,78.22,77.05,77.05,80,45,5.46,2023-02-08,PH
-561,Beira,-19.8436,34.8389,Clouds,broken clouds,93.85,84.09,84.29,79,75,15.01,2023-02-08,MZ
-562,Yakeshi,49.2833,120.7333,Clouds,overcast clouds,-36.62,-24.45,-24.45,100,98,3.78,2023-02-08,CN
-563,Popondetta,-8.7537,148.2534,Rain,light rain,75.38,73.83,73.83,95,100,1.95,2023-02-08,PG
-564,Kargasok,59.0556,80.8572,Clouds,broken clouds,-28.14,-17.27,-17.27,100,81,3.69,2023-02-08,RU
-565,Kudahuvadhoo,2.6708,72.8944,Clouds,overcast clouds,85.33,81.3,81.3,71,91,11.32,2023-02-08,MV
-566,Scarborough,54.2797,-0.4044,Clouds,broken clouds,38.37,43.11,44.91,64,62,8.01,2023-02-08,GB
-567,Maamba,-17.3667,27.15,Rain,light rain,73.92,73.02,73.02,83,10,3.89,2023-02-08,ZM
-568,Scicli,36.7902,14.7014,Rain,light rain,37.33,45.95,45.95,76,100,25.08,2023-02-08,IT
-569,Erzin,36.9559,36.2,Clear,clear sky,29.7,35.19,35.19,53,5,6.46,2023-02-08,TR
-570,Belaya Gora,68.5333,146.4167,Clouds,overcast clouds,-54.47,-41.87,-41.87,99,100,3.44,2023-02-08,RU
-571,Leshukonskoye,64.8989,45.7622,Clouds,scattered clouds,13.48,22.26,22.26,93,43,7.36,2023-02-08,RU
-572,Vestmanna,62.1564,-7.1664,Rain,light rain,25.74,36.52,36.52,65,75,20.71,2023-02-08,FO
-573,Buchanan,5.8808,-10.0467,Clouds,overcast clouds,87.71,82.29,82.29,73,98,6.15,2023-02-08,LR
-574,Chapleau,47.8405,-83.4034,Clear,clear sky,22.03,30.29,30.29,74,0,9.22,2023-02-08,CA
-575,Chicama,-7.8447,-79.1469,Clouds,broken clouds,73.71,73.94,73.94,57,63,9.22,2023-02-08,PE
-576,Collie,-33.3667,116.15,Clear,clear sky,58.66,59.11,59.11,84,0,7.02,2023-02-08,AU
-577,Selenduma,50.9131,106.2406,Clouds,broken clouds,-13.18,-13.18,-13.18,100,65,1.77,2023-02-08,RU
-578,Chauk,20.8833,94.8167,Clear,clear sky,69.26,70.95,70.95,32,0,2.24,2023-02-08,MM
-579,Yoichi,43.2039,140.7703,Clouds,overcast clouds,11.55,24.15,24.15,65,100,21.3,2023-02-08,JP
-580,Hudiksvall,61.729,17.1036,Clouds,broken clouds,31.73,40.41,40.41,77,78,17.18,2023-02-08,SE
-581,Snezhnogorsk,69.1933,33.2531,Clouds,overcast clouds,24.19,36.79,37.18,72,100,33.35,2023-02-08,RU
-582,Olden,61.8364,6.8064,Clouds,overcast clouds,40.69,47.14,47.14,89,100,16.15,2023-02-08,NO
-584,Red Deer,52.2668,-113.802,Clouds,scattered clouds,18.84,27.1,27.79,86,40,8.05,2023-02-08,CA
-585,Piacabucu,-10.4056,-36.4344,Clouds,broken clouds,86.02,84.51,84.51,51,70,11.18,2023-02-08,BR
-587,Cidreira,-30.1811,-50.2056,Clear,clear sky,83.82,80.71,80.71,68,1,13.53,2023-02-08,BR
-588,Maceio,-9.6658,-35.7353,Clouds,broken clouds,89.4,85.44,85.44,58,75,12.66,2023-02-08,BR
-589,Chany,55.3121,76.7647,Clouds,broken clouds,-26.73,-17.45,-17.45,100,68,3.04,2023-02-08,RU
-590,Tamandare,-8.7597,-35.1047,Clouds,overcast clouds,86.65,82.74,82.74,65,99,8.57,2023-02-08,BR
-591,San Quintin,30.4833,-115.95,Clouds,few clouds,58.64,61.21,61.21,34,17,0.43,2023-02-08,MX
-592,Kununurra,-15.7667,128.7333,Clouds,broken clouds,96.1,84.18,84.18,84,75,1.14,2023-02-08,AU
-593,Waingapu,-9.6567,120.2641,Clouds,scattered clouds,79.5,77.92,77.92,87,35,7.76,2023-02-08,ID
-594,Brigantine,39.4101,-74.3646,Clear,clear sky,52.09,53.94,56.14,65,0,12.66,2023-02-08,US
-595,Tateyama,34.9833,139.8667,Clouds,broken clouds,37.06,44.1,44.1,70,66,15.05,2023-02-08,JP
-596,Jardim,-21.4803,-56.1381,Clouds,overcast clouds,86.95,81.61,81.61,76,100,4.21,2023-02-08,BR
-597,Charters Towers,-20.1,146.2667,Clouds,overcast clouds,75.36,74.19,74.19,86,99,9.04,2023-02-08,AU
-598,Kenai,60.5544,-151.2583,Snow,light snow,14.04,19.15,19.45,80,100,3.44,2023-02-08,US
-599,Nhulunbuy,-12.2333,136.7667,Clouds,overcast clouds,79.41,79.41,79.41,94,100,1.14,2023-02-08,AU
-600,Mackay,-21.15,149.2,Clouds,overcast clouds,80.15,78.67,78.67,83,100,25.59,2023-02-08,AU
-601,Den Helder,52.9599,4.7593,Clouds,few clouds,34.09,39.13,41.02,62,20,7,2023-02-08,NL
-602,Karnal,29.6833,76.9833,Clouds,few clouds,53.15,56.1,56.1,37,15,6.04,2023-02-08,IN
-603,Nuoro,40.3211,9.3297,Clouds,scattered clouds,28.81,35.91,35.91,71,41,9.48,2023-02-08,IT
-604,Mandalgovi,45.7625,106.2708,Clouds,overcast clouds,11.77,11.77,11.77,92,100,2.82,2023-02-08,MN
-605,Udaipura,23.0833,78.5,Clear,clear sky,64.33,66.69,66.69,27,6,1.57,2023-02-08,IN
-606,Ballina,-28.8667,153.5667,Clouds,scattered clouds,69.17,68.02,68.02,99,49,7.67,2023-02-08,AU
-607,Ganzhou,28.8184,115.4327,Clouds,overcast clouds,46.22,48.02,48.02,93,97,4.5,2023-02-08,CN
-609,Ipixuna,-1.7625,-48.8043,Clouds,broken clouds,88.79,81.43,81.43,86,73,3.2,2023-02-08,BR
-610,Kuala Terengganu,5.3302,103.1408,Clouds,few clouds,78.75,78.75,78.75,89,20,3.44,2023-02-08,MY
-611,Palmer,42.1584,-72.3287,Clouds,broken clouds,35.37,42.48,46.06,61,75,13.8,2023-02-08,US
-612,Springdale,36.1867,-94.1288,Clouds,overcast clouds,36.57,43.43,46.13,96,100,13.8,2023-02-08,US
-613,The Valley,18.217,-63.0578,Clouds,few clouds,86.14,82.45,82.54,65,20,16.11,2023-02-08,AI
-615,Santiago De Cuba,20.0247,-75.8219,Clouds,scattered clouds,87.49,84.31,84.31,58,40,11.5,2023-02-08,CU
-616,Mecca,21.4267,39.8261,Clouds,overcast clouds,67.6,68.99,68.99,43,93,10.98,2023-02-08,SA
-617,Longyearbyen,78.2186,15.6401,Snow,light snow,14.4,24.64,24.64,80,40,10.36,2023-02-08,SJ
-618,Dulce Grande,23,-102.1667,Clouds,broken clouds,62.53,65.44,65.44,18,70,6.35,2023-02-08,MX
-619,Bilibino,68.0546,166.4372,Clouds,overcast clouds,-42.81,-42.81,-42.81,100,100,0.85,2023-02-08,RU
-620,Wilmington,34.2257,-77.9447,Clear,clear sky,68.25,68.85,69.71,60,0,11.5,2023-02-08,US
-622,Xai-Xai,-25.0519,33.6442,Clouds,overcast clouds,79.27,79.27,79.27,85,92,11.54,2023-02-08,MZ
-623,Tianpeng,30.9866,103.9393,Clouds,overcast clouds,52.97,53.64,53.64,91,99,7.58,2023-02-08,CN
-624,Mabaruma,8.2,-59.7833,Clouds,broken clouds,84.67,80.2,80.2,80,55,5.93,2023-02-08,GY
-625,Bar Harbor,44.3876,-68.2039,Clouds,broken clouds,30.9,37.4,40.01,79,63,8.99,2023-02-08,US
-627,Tando Adam,25.7637,68.661,Clouds,scattered clouds,69.93,71.74,71.74,28,35,10.45,2023-02-08,PK
-628,Plettenberg Bay,-34.0527,23.3716,Clouds,broken clouds,67.93,67.78,67.78,78,77,17.63,2023-02-08,ZA
-629,Shelburne,44.0787,-80.2041,Clouds,scattered clouds,25.38,33.8,37.85,86,36,11.25,2023-02-08,CA
-630,Umba,66.6871,34.3429,Clouds,broken clouds,16.95,28.49,28.49,86,83,15.35,2023-02-08,RU
+0,Hilo,19.7297,-155.09,Rain,moderate rain,22.03,21.64,22.85,83,75,4.12,2023-02-09,US
+1,Castro,-24.7911,-50.0119,Clouds,few clouds,16.37,16.21,16.21,95,12,2.39,2023-02-09,BR
+2,Albany,42.6001,-73.9662,Clouds,broken clouds,-2.02,-2.02,0.33,80,81,1.23,2023-02-09,US
+3,Punta Arenas,-53.15,-70.9167,Clear,clear sky,8.84,10.06,10.06,66,0,5.66,2023-02-09,CL
+5,Carnarvon,-24.8667,113.6333,Clouds,broken clouds,32.86,30.79,30.79,53,63,6.73,2023-02-09,AU
+6,Ushuaia,-54.8,-68.3,Clouds,few clouds,7.36,8.81,8.81,93,20,2.57,2023-02-09,AR
+7,Mataura,-46.1927,168.8643,Clouds,overcast clouds,12.63,13.6,13.6,62,87,3.91,2023-02-09,NZ
+8,Tarko-Sale,64.9225,77.785,Clouds,overcast clouds,-23.48,-16.48,-16.48,94,93,7.73,2023-02-09,RU
+9,Cabo San Lucas,22.8909,-109.9124,Clouds,scattered clouds,19.42,20.15,20.28,46,49,0.77,2023-02-09,MX
+10,Tasiilaq,65.6145,-37.6368,Clouds,overcast clouds,-21.91,-14.91,-14.91,54,96,4.36,2023-02-09,GL
+11,Clarence Town,-32.5833,151.7833,Rain,light rain,24.09,23.99,26.01,63,100,2.77,2023-02-09,AU
+12,Saldanha,-33.0117,17.9442,Clouds,few clouds,18.42,18.46,18.46,79,20,3.57,2023-02-09,ZA
+13,Hermanus,-34.4187,19.2345,Clouds,broken clouds,19.49,19.33,19.33,83,76,5.1,2023-02-09,ZA
+14,Kapaa,22.0752,-159.319,Clouds,scattered clouds,23.24,22.98,25.99,73,40,9.26,2023-02-09,US
+15,Dabakala,8.3667,-4.4333,Clouds,overcast clouds,24.26,23.81,23.81,77,100,0.97,2023-02-09,CI
+16,Luderitz,-26.6481,15.1594,Clouds,broken clouds,17.23,16.97,16.97,96,67,4.5,2023-02-09,NA
+17,Mandera,3.9366,41.867,Clouds,few clouds,24.3,24.25,24.25,60,20,2.04,2023-02-09,KE
+18,Kachug,53.9606,105.8817,Clouds,overcast clouds,-13.76,-13.76,-13.76,92,100,0.78,2023-02-09,RU
+19,Garden City,42.3256,-83.331,Haze,haze,-1.48,1.36,2.24,81,0,2.57,2023-02-09,US
+21,Fernie,49.5,-115.0687,Clouds,overcast clouds,-7.53,-7.53,-7.53,98,98,0.65,2023-02-09,CA
+22,Belyy Yar,53.6039,91.3903,Smoke,smoke,-15.06,-15.06,-15.06,100,40,1,2023-02-09,RU
+23,Hambantota,6.1241,81.1185,Clouds,few clouds,32.25,28.19,28.19,78,20,4.12,2023-02-09,LK
+24,Bulawayo,-20.15,28.5833,Clear,clear sky,16.53,16.55,16.55,87,2,1.8,2023-02-09,ZW
+25,Gat,31.61,34.7642,Clouds,broken clouds,5.32,7.02,8.55,100,77,2.46,2023-02-09,IL
+26,Gizo,-8.103,156.8419,Rain,light rain,33.53,29.1,29.1,73,98,4.86,2023-02-09,SB
+27,Bati,11.1833,40.0167,Clear,clear sky,14.36,14.93,14.93,72,6,1.09,2023-02-09,ET
+28,Farafangana,-22.8167,47.8333,Rain,light rain,25.23,24.5,24.5,85,100,3.4,2023-02-09,MG
+30,Stephenville,32.2207,-98.2023,Clear,clear sky,0.71,2.21,3.76,93,0,1.54,2023-02-09,US
+31,Ketchikan,55.3422,-131.6461,Rain,light rain,-1.8,3.26,3.26,87,100,7.2,2023-02-09,US
+32,Vaini,-21.2,-175.2,Rain,light intensity shower rain,30.88,27.09,27.09,89,75,4.63,2023-02-09,TO
+33,Hermiston,45.8404,-119.2895,Clear,clear sky,-0.55,2.14,6.22,75,0,2.57,2023-02-09,US
+34,Ormara,25.2088,64.6357,Clouds,broken clouds,22.23,22.11,22.11,71,71,4.92,2023-02-09,PK
+35,Victoria,22.2855,114.1577,Clouds,overcast clouds,21.29,21.02,23.31,81,96,5.36,2023-02-09,HK
+36,Butaritari,3.0707,172.7902,Clouds,broken clouds,30.94,27.42,27.42,82,65,9.15,2023-02-09,KI
+37,Lata,40.1629,-8.3327,Clouds,few clouds,4.54,6.62,7.82,79,11,2.88,2023-02-09,PT
+38,Aswan,24.0934,32.907,Clouds,overcast clouds,9.78,11.27,11.27,51,100,4.82,2023-02-09,EG
+39,Marsh Harbour,26.5412,-77.0636,Clear,clear sky,22.6,22.66,22.66,62,9,8.2,2023-02-09,BS
+40,Tuatapere,-46.1333,167.6833,Clouds,broken clouds,12.9,13.96,13.96,57,79,4.99,2023-02-09,NZ
+41,Busselton,-33.65,115.3333,Clear,clear sky,27.31,27.94,27.94,35,0,1.3,2023-02-09,AU
+42,Cape Town,-33.9258,18.4232,Clear,clear sky,18.25,18.35,19.39,77,0,3.09,2023-02-09,ZA
+43,Bethel,41.3712,-73.414,Clear,clear sky,1.98,1.98,4.97,65,0,0,2023-02-09,US
+44,San Cristobal,7.7669,-72.225,Clouds,few clouds,20.1,20.1,20.1,74,24,0.25,2023-02-09,VE
+45,Cidreira,-30.1811,-50.2056,Clouds,few clouds,25.16,24.49,24.49,83,24,8.46,2023-02-09,BR
+46,Kutum,14.2,24.6667,Clouds,few clouds,7.85,10.25,10.25,20,24,2.93,2023-02-09,SD
+47,Bayir,37.2687,28.2167,Clouds,scattered clouds,-2.56,0.29,0.29,71,32,2.39,2023-02-09,TR
+49,Coihaique,-45.5752,-72.0662,Clouds,broken clouds,17.6,17.97,17.97,68,75,2.06,2023-02-09,CL
+50,Adrar,20.5022,-10.0711,Clouds,overcast clouds,17.49,19.11,19.11,16,97,3.31,2023-02-09,MR
+51,East London,-33.0153,27.9116,Rain,moderate rain,19.98,19.52,19.52,94,75,2.57,2023-02-09,ZA
+52,Tura,25.5198,90.2201,Clouds,scattered clouds,22.35,22.98,22.98,39,48,1.31,2023-02-09,IN
+54,Bambous Virieux,-20.3428,57.7575,Rain,light rain,31.52,28.14,28.14,74,75,7.2,2023-02-09,MU
+55,Inzer,54.2167,57.5556,Clouds,overcast clouds,-17.8,-17.8,-17.8,100,99,1.05,2023-02-09,RU
+56,Cherskiy,68.75,161.3,Clouds,overcast clouds,-42.19,-35.19,-35.19,98,100,3.2,2023-02-09,RU
+57,Antalaha,-14.9003,50.2788,Rain,light rain,25.02,24.27,24.27,87,57,2.28,2023-02-09,MG
+58,Puerto Leguizamo,-0.1934,-74.7819,Clouds,overcast clouds,25.03,24.61,24.61,73,94,1.25,2023-02-09,CO
+59,Krasnoselkup,65.7,82.4667,Clouds,overcast clouds,-25.32,-18.32,-18.32,94,100,6.37,2023-02-09,RU
+60,Lebu,-37.6167,-73.65,Clear,clear sky,14.76,14.75,14.75,95,5,4.59,2023-02-09,CL
+61,Barrow,71.2906,-156.7887,Clouds,overcast clouds,-21.99,-21.99,-21.99,71,100,0,2023-02-09,US
+62,Bengkulu,-3.8004,102.2655,Clouds,overcast clouds,30.66,28.52,28.52,63,96,2.2,2023-02-09,ID
+63,Barcelos,41.5388,-8.6151,Clear,clear sky,4.44,6.78,9.91,75,0,3.31,2023-02-09,PT
+64,Rawson,-43.3002,-65.1023,Clouds,broken clouds,20.86,21.34,21.34,51,71,11.78,2023-02-09,AR
+65,Ancud,-41.8697,-73.8203,Clouds,few clouds,14.27,14.26,14.26,97,11,2.96,2023-02-09,CL
+66,New Norfolk,-42.7826,147.0587,Clouds,overcast clouds,20.32,21.11,21.6,40,98,0.45,2023-02-09,AU
+67,Umea,63.8284,20.2597,Clouds,overcast clouds,-4.52,1.96,1.96,87,100,10.29,2023-02-09,SE
+68,Beipiao,41.7919,120.7792,Snow,light snow,-5.6,-0.47,-0.47,40,100,5.16,2023-02-09,CN
+69,Saint-Philippe,-21.3585,55.7679,Rain,light rain,31.82,27.77,27.77,82,67,5.18,2023-02-09,RE
+70,Sechura,-5.5569,-80.8222,Clouds,broken clouds,25.01,24.57,24.57,74,75,3.9,2023-02-09,PE
+71,Thompson,55.7435,-97.8558,Clouds,scattered clouds,-26.12,-19.27,-19.27,96,41,2.66,2023-02-09,CA
+72,Touros,-5.1989,-35.4608,Clouds,few clouds,26.01,26.01,26.01,81,13,5,2023-02-09,BR
+73,Bluff,-46.6,168.3333,Clouds,broken clouds,12.68,13.78,13.78,56,77,8.33,2023-02-09,NZ
+74,Tuktoyaktuk,69.4541,-133.0374,Clouds,few clouds,-45,-38,-38,74,20,1.54,2023-02-09,CA
+75,La Rioja,42.25,-2.5,Clouds,scattered clouds,-7.86,-4.12,-4.12,84,40,2.46,2023-02-09,ES
+76,Kabelvag,68.2114,14.4817,Drizzle,drizzle rain,-4.89,2,2.01,87,20,11.83,2023-02-09,NO
+77,Nikolskoye,59.7035,30.7861,Clouds,overcast clouds,-2.69,1.61,1.94,93,100,4.63,2023-02-09,RU
+78,Henties Bay,-22.116,14.2845,Clouds,overcast clouds,17.93,17.8,17.8,88,89,2.23,2023-02-09,NA
+79,Makokou,0.5738,12.8642,Clear,clear sky,21.45,21.14,21.14,82,7,1.25,2023-02-09,GA
+80,Hearst,49.6835,-83.6665,Clouds,overcast clouds,-7.35,-7.35,-7.35,97,91,1.25,2023-02-09,CA
+81,Rikitea,-23.1203,-134.9692,Clear,clear sky,28.66,26.75,26.75,73,4,6.4,2023-02-09,PF
+82,Namibe,-15.1961,12.1522,Clouds,overcast clouds,20.62,20.53,20.53,76,98,2.82,2023-02-09,AO
+83,Snasa,64.2457,12.3778,Snow,light snow,-2.78,1.67,1.67,98,100,4.91,2023-02-09,NO
+84,Uspenka,48.3903,39.1619,Clouds,few clouds,-12.69,-9.7,-9.7,95,19,1.44,2023-02-09,UA
+86,Mehnagar,25.8833,83.1167,Clear,clear sky,17.53,18.57,18.57,40,0,2.98,2023-02-09,IN
+87,Hobyo,5.3505,48.5268,Clouds,scattered clouds,25.91,25.36,25.36,75,45,7.21,2023-02-09,SO
+88,Mar Del Plata,-38.0023,-57.5575,Clear,clear sky,20.12,19.72,19.97,91,0,1.34,2023-02-09,AR
+89,San Quintin,30.4833,-115.95,Clear,clear sky,13.28,14.45,14.45,51,4,4.01,2023-02-09,MX
+90,Abdanan,32.9926,47.4198,Clear,clear sky,2.16,2.16,2.16,65,10,1.28,2023-02-09,IR
+91,Aklavik,68.2191,-135.0107,Clouds,overcast clouds,-40.64,-34.01,-34.01,99,95,1.53,2023-02-09,CA
+92,Belmonte,-15.8631,-38.8828,Clouds,broken clouds,25.37,24.8,24.8,78,74,3.3,2023-02-09,BR
+93,Saint-Augustin,51.226,-58.6502,Clouds,overcast clouds,-17.43,-10.43,-10.43,78,99,9.23,2023-02-09,CA
+95,Jamestown,42.097,-79.2353,Clear,clear sky,-4.2,-0.17,0.8,89,0,3.6,2023-02-09,US
+96,Qaanaaq,77.484,-69.3632,Clouds,few clouds,-38.69,-31.69,-31.69,64,14,2.71,2023-02-09,GL
+97,Nabire,-3.3667,135.4833,Clouds,overcast clouds,25.26,24.46,24.46,88,99,1.35,2023-02-09,ID
+98,Ust-Tsilma,65.441,52.1498,Clouds,overcast clouds,-9.48,-3.45,-3.45,78,95,5.39,2023-02-09,RU
+99,Faanui,-16.4833,-151.75,Clear,clear sky,29.62,27.38,27.38,71,9,3.15,2023-02-09,PF
+100,Pevek,69.7008,170.3133,Clouds,overcast clouds,-41.47,-34.47,-34.47,100,100,3.05,2023-02-09,RU
+101,Auki,-8.7676,160.7034,Clouds,overcast clouds,33.28,29.34,29.34,69,99,1.91,2023-02-09,SB
+102,Shakhtinsk,49.71,72.5872,Clouds,overcast clouds,-24.87,-17.87,-17.87,95,100,5.04,2023-02-09,KZ
+103,Airai,-8.9266,125.4092,Clouds,overcast clouds,20.78,20.65,20.65,77,98,1.88,2023-02-09,TL
+104,Sola,-13.8833,167.55,Clouds,overcast clouds,30.28,27.67,27.67,72,88,2.66,2023-02-09,VU
+105,Yellowknife,62.456,-114.3525,Clouds,broken clouds,-29.71,-22.71,-22.47,84,75,3.09,2023-02-09,CA
+106,Saskylakh,71.9167,114.0833,Clouds,broken clouds,-48.37,-41.37,-41.37,98,54,3.04,2023-02-09,RU
+107,Korla,41.7597,86.1469,Clouds,scattered clouds,-4.14,-0.81,-0.81,58,49,2.65,2023-02-09,CN
+108,Rio Muerto,27.4167,-110.2333,Clear,clear sky,13.79,14.91,14.91,51,1,6.03,2023-02-09,MX
+109,Provideniya,64.3833,-173.3,Snow,light snow,-27.94,-20.94,-20.94,59,100,4,2023-02-09,RU
+110,Simoes,-7.5989,-40.8178,Clouds,overcast clouds,20.94,21.79,21.79,35,97,3.16,2023-02-09,BR
+112,Palmer,42.1584,-72.3287,Clouds,broken clouds,1.29,1.29,4.49,70,75,0,2023-02-09,US
+113,Spencer,43.1414,-95.1444,Clear,clear sky,-3.21,-0.58,0.29,80,0,2.06,2023-02-09,US
+114,Dawlatabad,36.4141,64.9053,Rain,light rain,2.45,5.69,5.69,87,100,4.48,2023-02-09,AF
+115,Ribeira Grande,38.5167,-28.7,Clouds,scattered clouds,10.86,11.54,11.54,81,28,4.02,2023-02-09,PT
+116,Port Lincoln,-34.7333,135.8667,Clear,clear sky,28.13,27.94,27.94,47,0,2.88,2023-02-09,AU
+117,Teofilo Otoni,-17.8575,-41.5053,Clouds,overcast clouds,20.49,20.05,20.05,91,100,1.18,2023-02-09,BR
+118,Leon,21.1167,-101.6667,Clouds,broken clouds,13.53,15.03,15.03,36,67,0.71,2023-02-09,MX
+119,Isangel,-19.55,169.2667,Rain,moderate rain,26.09,26.09,26.09,88,100,4.09,2023-02-09,VU
+121,Magistralnyy,56.1725,107.4458,Clouds,overcast clouds,-11.04,-8.2,-8.2,91,100,1.47,2023-02-09,RU
+122,Mayumba,-3.432,10.6554,Clouds,broken clouds,26.37,25.45,25.45,89,75,3.43,2023-02-09,GA
+123,Hithadhoo,-0.6,73.0833,Clouds,broken clouds,30.02,27.54,27.54,72,77,4.35,2023-02-09,MV
+124,Stawell,-37.05,142.7667,Clear,clear sky,28.87,30.86,30.86,17,3,3.81,2023-02-09,AU
+125,Georgetown,5.4112,100.3354,Clouds,few clouds,34.42,28.96,28.96,79,20,2.06,2023-02-09,MY
+126,Katherine,-14.4667,132.2667,Clouds,scattered clouds,40.71,35.18,35.18,49,40,2.57,2023-02-09,AU
+127,Vila Franca Do Campo,37.7167,-25.4333,Clouds,overcast clouds,11.41,12.23,12.23,73,96,3.91,2023-02-09,PT
+129,Angoram,-4.0625,144.0661,Rain,light rain,25.68,24.65,24.65,96,100,1.81,2023-02-09,PG
+131,Sorong,-0.8833,131.25,Clouds,overcast clouds,25.98,25.98,25.98,84,100,1.94,2023-02-09,ID
+132,Christchurch,-43.5333,172.6333,Clouds,broken clouds,16.93,17.67,18.11,55,75,7.72,2023-02-09,NZ
+133,Warrnambool,-38.3833,142.4833,Clear,clear sky,20.8,20.98,20.98,64,3,4.14,2023-02-09,AU
+134,Tocopilla,-22.092,-70.1979,Clouds,scattered clouds,23.05,22.59,22.59,82,45,2.31,2023-02-09,CL
+135,The Valley,18.217,-63.0578,Clouds,scattered clouds,24.35,23.97,25.05,74,35,10.75,2023-02-09,AI
+136,Salym,60.0625,71.4789,Clouds,overcast clouds,-22.63,-15.63,-15.63,97,97,3.42,2023-02-09,RU
+137,Maragogi,-9.0122,-35.2225,Clouds,overcast clouds,25.97,25.27,25.27,81,98,2.29,2023-02-09,BR
+138,Emporia,38.4039,-96.1817,Rain,moderate rain,-1.35,3.11,3.11,87,100,5.66,2023-02-09,US
+139,Khatanga,71.9667,102.5,Clouds,broken clouds,-49.68,-42.68,-42.68,99,64,1.71,2023-02-09,RU
+141,Jilib,0.4883,42.7854,Clear,clear sky,23.82,23.15,23.15,88,4,2.05,2023-02-09,SO
+142,Saurimo,-9.6608,20.3916,Clouds,overcast clouds,16.91,16.68,16.68,96,95,1.63,2023-02-09,AO
+143,Hobart,-42.8794,147.3294,Clouds,broken clouds,20.62,21,21.26,56,75,5.66,2023-02-09,AU
+144,Sambava,-14.2667,50.1667,Clouds,broken clouds,25.25,24.5,24.5,86,60,3.27,2023-02-09,MG
+145,Port Moresby,-9.4431,147.1797,Clouds,overcast clouds,31.32,27.86,27.86,77,100,4.68,2023-02-09,PG
+146,Muncie,40.1934,-85.3864,Rain,moderate rain,3.12,5.59,6.51,91,100,3.13,2023-02-09,US
+147,Valparaiso,-33.0393,-71.6273,Clouds,few clouds,15.89,15.8,15.8,94,20,1.03,2023-02-09,CL
+148,Mazagao,-0.115,-51.2894,Clouds,overcast clouds,26.12,25.03,25.03,97,100,1.32,2023-02-09,BR
+149,Dikson,73.5069,80.5464,Clouds,overcast clouds,-26.01,-19.01,-19.01,85,89,6.12,2023-02-09,RU
+151,Hofn,64.2539,-15.2082,Clear,clear sky,-11.57,-4.57,-4.57,47,0,7.03,2023-02-09,IS
+152,Myski,53.709,87.8014,Clouds,overcast clouds,-11.14,-11.14,-11.14,93,97,0.09,2023-02-09,RU
+156,Lavrentiya,65.5833,-171,Clouds,overcast clouds,-24.44,-24.44,-24.44,97,100,1.12,2023-02-09,RU
+157,Kavieng,-2.5744,150.7967,Clouds,overcast clouds,32.02,28.59,28.59,71,100,2.75,2023-02-09,PG
+158,Lagoa,39.05,-27.9833,Rain,light rain,12.91,13.59,13.59,73,100,5.57,2023-02-09,PT
+159,Richards Bay,-28.783,32.0377,Clouds,overcast clouds,22.78,22.18,22.18,89,100,4.59,2023-02-09,ZA
+160,Guane,22.2025,-84.0875,Clear,clear sky,22.95,22.43,22.43,85,1,3.09,2023-02-09,CU
+161,Paso De Carrasco,-34.8603,-56.0522,Clear,clear sky,21.41,21.08,23.86,83,0,0,2023-02-09,UY
+163,Yokadouma,3.5167,15.05,Clear,clear sky,16.58,17.8,17.8,36,3,0.81,2023-02-09,CM
+164,Yokosuka,35.2836,139.6672,Clouds,scattered clouds,8.92,10.86,11.63,35,45,6.86,2023-02-09,JP
+166,Kununurra,-15.7667,128.7333,Clear,clear sky,39.16,34.99,34.99,46,10,5.14,2023-02-09,AU
+167,Geraldton,-28.7667,114.6,Clear,clear sky,31.07,30.23,30.23,48,0,6.69,2023-02-09,AU
+168,Alghero,40.5589,8.3181,Clouds,few clouds,2.05,2.05,2.05,87,23,0.51,2023-02-09,IT
+169,Camacha,33.0833,-16.3333,Clouds,scattered clouds,10.76,11.68,11.68,71,40,3.6,2023-02-09,PT
+170,Ziway,7.9333,38.7167,Clear,clear sky,15.48,16.26,16.26,59,3,5.61,2023-02-09,ET
+171,Hay River,60.8156,-115.7999,Clouds,scattered clouds,-20.01,-13.01,-13.01,78,40,5.14,2023-02-09,CA
+172,Los Llanos De Aridane,28.6585,-17.9182,Clouds,broken clouds,12.12,12.85,12.86,74,75,2.57,2023-02-09,ES
+173,Isla Vista,34.4133,-119.861,Clear,clear sky,10.99,11.94,13.77,69,0,0,2023-02-09,US
+174,Luwuk,-0.9516,122.7875,Clouds,overcast clouds,34.21,30.47,30.47,62,97,1.68,2023-02-09,ID
+175,Hoquiam,46.9809,-123.8893,Clouds,overcast clouds,5.02,7.14,7.99,87,100,3.09,2023-02-09,US
+176,Bredasdorp,-34.5322,20.0403,Clear,clear sky,18.09,18.06,18.06,83,1,3.91,2023-02-09,ZA
+177,Bandarbeyla,9.4942,50.8122,Clouds,broken clouds,25.1,24.72,24.72,71,61,4.73,2023-02-09,SO
+178,Chokurdakh,70.6333,147.9167,Clouds,overcast clouds,-38.94,-31.94,-31.94,96,100,2.44,2023-02-09,RU
+179,Ahipara,-35.1667,173.1667,Clouds,scattered clouds,20.45,20.85,20.85,56,27,4.47,2023-02-09,NZ
+180,Port Alfred,-33.5906,26.891,Rain,light rain,20.11,19.54,19.54,98,100,0.45,2023-02-09,ZA
+181,Beringovskiy,63.05,179.3167,Clouds,few clouds,-38.46,-31.46,-31.46,93,22,2.37,2023-02-09,RU
+182,Flin Flon,54.7682,-101.865,Clouds,scattered clouds,-24.72,-18.49,-18.49,98,27,2.38,2023-02-09,CA
+183,Hami,42.8,93.45,Clouds,overcast clouds,1.42,3.24,3.24,38,100,1.91,2023-02-09,CN
+184,Ponta Do Sol,32.6667,-17.1,Rain,light rain,13.12,13.8,14.28,72,44,3.04,2023-02-09,PT
+186,Talnakh,69.4865,88.3972,Clouds,overcast clouds,-26.33,-19.33,-19.33,95,100,4.08,2023-02-09,RU
+187,Severo-Kurilsk,50.6789,156.125,Clouds,overcast clouds,-11.79,-4.79,-4.79,56,87,9.83,2023-02-09,RU
+188,Nouadhibou,20.931,-17.0347,Clouds,overcast clouds,16.39,16.99,16.99,63,100,2.06,2023-02-09,MR
+190,Balykshi,47.0667,51.8667,Mist,mist,-26.92,-21,-21,77,5,2,2023-02-09,KZ
+191,Dargaville,-35.9333,173.8833,Clouds,broken clouds,19.81,20.27,20.27,56,60,4.18,2023-02-09,NZ
+192,Salalah,17.0151,54.0924,Clear,clear sky,20.67,21.05,21.05,56,0,2.57,2023-02-09,OM
+193,Salinopolis,-0.6136,-47.3561,Rain,light rain,25.88,25.02,25.02,88,99,3.54,2023-02-09,BR
+194,Dingle,10.9995,122.6711,Clouds,overcast clouds,30.53,27.8,27.8,72,97,7.12,2023-02-09,PH
+195,Kars,40.602,43.095,Clouds,scattered clouds,-17.75,-17.75,-17.75,85,40,1.03,2023-02-09,TR
+196,Amudat,1.95,34.95,Clear,clear sky,18.87,19.51,19.51,52,10,1.39,2023-02-09,UG
+197,Koslan,63.4564,48.8989,Clouds,broken clouds,-12.23,-5.92,-5.92,87,53,4.87,2023-02-09,RU
+198,Chapais,49.7834,-74.8492,Clouds,broken clouds,-22.12,-22.12,-22.12,100,68,0.84,2023-02-09,CA
+199,Hasaki,35.7333,140.8333,Clear,clear sky,5.67,9.22,10.68,37,8,7.94,2023-02-09,JP
+200,Olafsvik,64.8945,-23.7142,Clouds,overcast clouds,-11.43,-4.43,-4.43,60,100,9.69,2023-02-09,IS
+201,Fez,34.0372,-4.9998,Clear,clear sky,2.61,5.14,5.14,75,0,3.09,2023-02-09,MA
+202,Bissau,11.8636,-15.5977,Clear,clear sky,20.03,20.06,20.06,73,0,1.03,2023-02-09,GW
+203,Alta Floresta,-9.8756,-56.0861,Rain,light rain,22.03,21.31,21.31,97,66,0.96,2023-02-09,BR
+204,Monroe,43.1501,-77.6831,Clouds,scattered clouds,-2.32,-0.44,2.48,83,40,1.54,2023-02-09,US
+205,Arraial Do Cabo,-22.9661,-42.0278,Clear,clear sky,24.67,23.92,23.92,88,0,1.03,2023-02-09,BR
+207,Asau,46.4333,26.4,Clear,clear sky,-20.81,-15.49,-15.4,87,10,2.17,2023-02-09,RO
+208,Mayo,38.8876,-76.5119,Clear,clear sky,4.85,6.32,10.07,72,0,2.06,2023-02-09,US
+209,Shunyi,40.125,116.6453,Clear,clear sky,1.97,1.97,1.97,38,0,1,2023-02-09,CN
+210,Vardo,70.3705,31.1107,Clouds,overcast clouds,-5.01,1.99,1.99,75,99,16.46,2023-02-09,NO
+211,Iqaluit,63.7506,-68.5145,Clear,clear sky,-40.15,-33.15,-33.15,68,0,11.32,2023-02-09,CA
+212,Chunoyar,57.4467,97.3217,Clouds,overcast clouds,-17.29,-13.58,-13.58,94,100,1.52,2023-02-09,RU
+213,Mount Gambier,-37.8333,140.7667,Clear,clear sky,26.15,26.15,26.15,35,0,3.58,2023-02-09,AU
+214,Port Elizabeth,-33.918,25.5701,Rain,light rain,21.39,20.73,20.73,97,100,1.03,2023-02-09,ZA
+215,Verkhnyaya Inta,65.9811,60.3094,Clouds,overcast clouds,-12.4,-5.4,-5.4,89,97,9.64,2023-02-09,RU
+216,Ewa Beach,21.3156,-158.0072,Clear,clear sky,24,24.03,24.97,58,0,5.66,2023-02-09,US
+217,Karsava,56.7841,27.6883,Clouds,broken clouds,-12.9,-7.02,-7.02,95,62,3.99,2023-02-09,LV
+218,Firozabad,27.15,78.4167,Clear,clear sky,17.38,18.53,18.53,36,0,2.39,2023-02-09,IN
+219,Wilmington Island,32.0036,-80.9737,Clear,clear sky,15.7,15.75,16.99,89,0,2.57,2023-02-09,US
+220,Batagay-Alyta,67.8006,130.4114,Clouds,scattered clouds,-39.21,-39.21,-39.21,96,45,0.8,2023-02-09,RU
+221,Thinadhoo,0.5333,72.9333,Rain,light rain,29.61,27.32,27.32,72,100,3,2023-02-09,MV
+222,Magnolia,33.2671,-93.2393,Clouds,overcast clouds,7.37,9.93,10.83,87,91,5.36,2023-02-09,US
+223,Takaka,-40.85,172.8,Clouds,few clouds,17.98,18.53,18.53,59,17,3.1,2023-02-09,NZ
+224,Deputatskiy,69.3,139.9,Clouds,overcast clouds,-47.4,-40.4,-40.4,97,91,1.55,2023-02-09,RU
+225,Gherghesti,46.5,27.5167,Clear,clear sky,-21.42,-14.42,-14.42,94,10,3.6,2023-02-09,RO
+226,Mocuba,-16.8392,36.9856,Clouds,overcast clouds,23.5,22.67,22.67,96,86,0.79,2023-02-09,MZ
+227,Manokwari,-0.8667,134.0833,Clouds,overcast clouds,25.93,25.19,25.19,83,100,0.26,2023-02-09,ID
+228,Acapulco,16.8634,-99.8901,Clear,clear sky,25.14,24.9,24.9,65,0,0,2023-02-09,MX
+229,Upernavik,72.7868,-56.1549,Clear,clear sky,-41.6,-34.6,-34.6,84,2,3.81,2023-02-09,GL
+230,Imbituba,-28.24,-48.6703,Clouds,broken clouds,23.65,22.95,22.95,90,63,4.55,2023-02-09,BR
+231,Simav,39.0882,28.9777,Clouds,broken clouds,-13.42,-8.28,-8.28,96,59,2.98,2023-02-09,TR
+232,Kletskaya,49.3145,43.0584,Clouds,broken clouds,-17.46,-13.07,-13.07,96,65,1.88,2023-02-09,RU
+233,Komsomolskiy,40.4272,71.7189,Clouds,broken clouds,2.61,4.4,4.4,75,75,2.06,2023-02-09,UZ
+234,Hirara,24.8,125.2833,Clouds,broken clouds,23.56,23.15,23.92,78,75,7.2,2023-02-09,JP
+235,Alice Springs,-23.7,133.8833,Clear,clear sky,34.36,36.75,36.75,15,1,6.69,2023-02-09,AU
+236,Singaraja,-8.112,115.0882,Clouds,overcast clouds,30.64,27.25,27.25,83,97,2.33,2023-02-09,ID
+237,Chuy,-33.6971,-53.4616,Clouds,scattered clouds,22.2,21.56,21.56,93,32,3.22,2023-02-09,UY
+238,Norman Wells,65.282,-126.8329,Snow,light snow,-23.98,-23.98,-23.98,70,75,0,2023-02-09,CA
+239,Lixourion,38.2019,20.4314,Clouds,overcast clouds,0.05,5.09,5.09,62,100,8.78,2023-02-09,GR
+240,Kysyl-Syr,63.8986,122.7617,Clouds,broken clouds,-45.62,-38.62,-38.62,95,77,1.69,2023-02-09,RU
+241,Jumla,29.2747,82.1838,Clouds,scattered clouds,8.06,10.27,10.27,27,29,1.34,2023-02-09,NP
+242,Fairbanks,64.8378,-147.7164,Snow,light snow,-18.37,-18.37,-15.22,88,20,0,2023-02-09,US
+243,Ilulissat,69.2167,-51.1,Clouds,broken clouds,-30.54,-23.99,-23.99,70,53,2.06,2023-02-09,GL
+244,Tabuk,17.4189,121.4443,Clouds,overcast clouds,24.93,24.42,24.42,77,100,2.51,2023-02-09,PH
+245,Denpasar,-8.65,115.2167,Clouds,scattered clouds,34.65,29.84,29.84,70,40,2.57,2023-02-09,ID
+246,Moose Factory,51.2585,-80.6094,Clouds,broken clouds,-15.01,-15.01,-15,85,75,1.03,2023-02-09,CA
+247,Pisco,-13.7,-76.2167,Clear,clear sky,23.56,23.03,23.03,83,0,3.09,2023-02-09,PE
+248,Vila,42.0304,-8.1588,Clear,clear sky,-1.86,0.39,1.49,80,0,1.89,2023-02-09,PT
+249,Meulaboh,4.1363,96.1285,Clouds,broken clouds,31.54,28.76,28.76,66,79,1.28,2023-02-09,ID
+252,Akhtubinsk,48.2795,46.1722,Clouds,few clouds,-14.99,-10.97,-10.97,93,14,1.86,2023-02-09,RU
+253,Beloha,-25.1667,45.05,Clouds,overcast clouds,24.73,24.29,24.29,75,100,3.7,2023-02-09,MG
+254,Broken Hill,-31.95,141.4333,Clear,clear sky,31.18,33.65,33.65,12,0,3.91,2023-02-09,AU
+255,Avarua,-21.2078,-159.775,Clouds,broken clouds,31.28,28.03,28.03,74,75,5.66,2023-02-09,CK
+256,Carlsbad,33.1581,-117.3506,Clear,clear sky,11.87,13.02,16.43,57,0,3.13,2023-02-09,US
+257,Suleja,9.1758,7.1808,Clouds,broken clouds,23.94,24.95,24.95,17,75,3.88,2023-02-09,NG
+258,Atascadero,35.4894,-120.6707,Clouds,scattered clouds,8.12,9.68,11.03,70,26,3.01,2023-02-09,US
+259,Gwembe,-16.4975,27.6069,Clouds,overcast clouds,16.58,16.33,16.33,98,97,2.47,2023-02-09,ZM
+260,Clermont,49.5,2.4167,Clouds,few clouds,-10.16,-7.2,-2.77,60,17,1.6,2023-02-09,FR
+261,Robe,-37.1833,139.75,Clear,clear sky,18.74,19.06,19.06,66,0,5.37,2023-02-09,AU
+262,El Dovio,4.5079,-76.2362,Clouds,overcast clouds,17.38,17.06,17.06,98,90,1.86,2023-02-09,CO
+264,Anchorage,61.2181,-149.9003,Clouds,overcast clouds,-7.44,-7.44,-6.51,97,100,0,2023-02-09,US
+266,Jacareacanga,-6.2222,-57.7528,Clouds,broken clouds,22.64,21.82,21.82,99,59,0.84,2023-02-09,BR
+267,Mount Isa,-20.7333,139.5,Clouds,broken clouds,34.96,32.87,32.87,46,75,4.12,2023-02-09,AU
+268,Tupik,54.4253,119.9327,Clouds,overcast clouds,-16.46,-16.46,-16.46,86,100,1.08,2023-02-09,RU
+269,Giovinazzo,41.1864,16.6674,Clouds,scattered clouds,2.7,4.88,6.57,72,40,2.57,2023-02-09,IT
+270,Coquimbo,-29.9533,-71.3436,Clouds,broken clouds,17.99,17.85,17.85,88,75,2.57,2023-02-09,CL
+271,Esperance,-33.8667,121.9,Clouds,scattered clouds,20.85,21.02,21.02,64,29,5.89,2023-02-09,AU
+272,Yeppoon,-23.1333,150.7333,Clouds,overcast clouds,32.8,29.88,29.88,61,92,10.31,2023-02-09,AU
+273,Martapura,-3.4167,114.85,Clouds,few clouds,31.32,28.05,28.05,74,20,1.03,2023-02-09,ID
+274,San Jose,37.3394,-121.895,Clear,clear sky,9.6,10.63,13.28,71,0,1.34,2023-02-09,US
+275,Wolfhagen,51.3261,9.1702,Clear,clear sky,-4.03,-4.03,-4.03,80,0,1.03,2023-02-09,DE
+276,Narva-Joesuu,59.4589,28.0408,Clouds,overcast clouds,-5.3,0.54,0.54,82,100,7.19,2023-02-09,EE
+277,Luba,3.4568,8.5547,Rain,light rain,29.98,26.94,26.94,84,89,1.5,2023-02-09,GQ
+278,Atuona,-9.8,-139.0333,Rain,light rain,26.22,26.22,26.22,79,46,10.06,2023-02-09,PF
+280,Matara,5.9485,80.5353,Clouds,scattered clouds,30.32,28.17,28.17,65,33,1.61,2023-02-09,LK
+281,Changji,44.0167,87.3167,Mist,mist,-8.56,-8.56,-8.56,86,75,1,2023-02-09,CN
+282,Tarakan,3.3,117.6333,Clouds,scattered clouds,34.74,30.72,30.72,62,40,3.09,2023-02-09,ID
+283,Chara,56.9064,118.2631,Clouds,scattered clouds,-20.42,-20.42,-20.42,86,31,0.57,2023-02-09,RU
+284,Sao Filipe,14.8961,-24.4956,Clouds,broken clouds,20.67,20.6,20.6,75,58,3.17,2023-02-09,CV
+285,Anadyr,64.75,177.4833,Clear,clear sky,-42,-35,-34.72,73,0,5,2023-02-09,RU
+286,Bubaque,11.2833,-15.8333,Clear,clear sky,23.54,23.42,23.42,66,1,4.73,2023-02-09,GW
+287,Marsa Matruh,31.3525,27.2453,Clouds,broken clouds,10.21,11.4,11.4,62,84,4.2,2023-02-09,EG
+288,Kyaikkami,16.08,97.5675,Clouds,few clouds,26.66,26.78,26.78,39,11,1.54,2023-02-09,MM
+289,Yar-Sale,66.8333,70.8333,Clouds,overcast clouds,-19.92,-12.92,-12.92,96,94,4.72,2023-02-09,RU
+290,Gazanjyk,39.2446,55.5154,Clouds,overcast clouds,4.12,5.62,5.62,75,100,1.97,2023-02-09,TM
+291,Nunoa,-14.48,-70.6411,Clouds,overcast clouds,2.41,3.72,3.72,98,100,1.56,2023-02-09,PE
+292,Saint George,37.1041,-113.5841,Clear,clear sky,5.85,7.83,10.53,49,0,3.09,2023-02-09,US
+293,Jimenez,28.3333,-105.4,Clear,clear sky,8.79,11.1,11.1,20,0,1.61,2023-02-09,MX
+294,Zharkent,44.1628,80,Clouds,overcast clouds,-3.35,-3.35,-3.35,77,99,0.84,2023-02-09,KZ
+295,Medford,42.3265,-122.8756,Clouds,scattered clouds,3.52,5.18,6.95,78,46,2.06,2023-02-09,US
+296,Harper,4.375,-7.7169,Clouds,overcast clouds,25.78,24.93,24.93,88,90,0.45,2023-02-09,LR
+297,Guerrero Negro,27.9769,-114.0611,Clouds,few clouds,15.08,16.01,16.01,54,16,0.58,2023-02-09,MX
+298,Kahului,20.8947,-156.47,Clouds,scattered clouds,23.69,23.41,24.36,72,40,8.75,2023-02-09,US
+299,Port Hardy,50.6996,-127.4199,Rain,light rain,-2.29,4.11,4.11,93,100,12.83,2023-02-09,CA
+300,Tilichiki,60.4667,166.1,Clouds,broken clouds,-31.15,-24.15,-24.15,87,77,4.4,2023-02-09,RU
+301,Betioky,-23.7167,44.3833,Clouds,overcast clouds,24.39,24.1,24.1,70,100,3.69,2023-02-09,MG
+302,Vanimo,-2.6741,141.3028,Rain,light rain,26.34,25.35,25.35,92,100,4.74,2023-02-09,PG
+304,Stornoway,58.2093,-6.3865,Rain,light rain,-3,2.88,3.29,88,75,9.26,2023-02-09,GB
+305,Yarada,17.65,83.2667,Haze,haze,29.07,27.18,27.18,69,21,1.54,2023-02-09,IN
+307,Kruisfontein,-34.0033,24.7314,Clouds,overcast clouds,17.88,17.94,17.94,80,95,1.07,2023-02-09,ZA
+308,Port Blair,11.6667,92.75,Haze,haze,30.57,28.02,28.02,69,40,3.6,2023-02-09,IN
+309,Espanola,35.9911,-106.0806,Clear,clear sky,-0.15,1.26,2.75,63,0,1.39,2023-02-09,US
+310,Gao,16.6362,1.637,Clear,clear sky,21.13,22.44,22.44,15,0,4.97,2023-02-09,ML
+311,Fayaoue,-20.65,166.5333,Clouds,overcast clouds,31.7,27.96,27.96,78,98,3.95,2023-02-09,NC
+312,Kouroussa,10.65,-9.8833,Clouds,overcast clouds,26.47,27.66,27.66,18,87,0.8,2023-02-09,GN
+313,Marzuq,14.4,46.4667,Clouds,broken clouds,16.48,17.93,17.93,27,55,0.23,2023-02-09,YE
+314,Yaval,21.1667,75.7,Clouds,scattered clouds,24.11,25.05,25.05,19,46,2.41,2023-02-09,IN
+316,Ulladulla,-35.35,150.4667,Rain,light rain,22.04,21.53,21.53,88,100,5.57,2023-02-09,AU
+317,Verkhoyansk,67.5447,133.385,Clouds,broken clouds,-43.1,-43.1,-43.1,95,75,0.33,2023-02-09,RU
+318,Kamenka,51.3223,42.7678,Clouds,broken clouds,-19.96,-14.45,-14.45,97,80,2.39,2023-02-09,RU
+319,Shenzhen,22.5455,114.0683,Clouds,broken clouds,21.31,20.61,21.97,99,61,2.42,2023-02-09,CN
+320,Colan,7.5873,-80.2296,Clear,clear sky,23.34,22.79,22.79,85,8,8.6,2023-02-09,PA
+321,Pudozh,61.8099,36.5345,Clouds,overcast clouds,-4.54,0.54,0.54,89,100,5.55,2023-02-09,RU
+322,Sitka,57.0531,-135.33,Rain,light rain,-0.06,3.94,3.94,65,100,5.14,2023-02-09,US
+324,Rabo De Peixe,37.8,-25.5833,Clouds,scattered clouds,10.81,11.73,11.73,71,40,3.6,2023-02-09,PT
+325,Husainabad,24.5333,84.0167,Clear,clear sky,20.32,21.37,21.37,29,0,2.74,2023-02-09,IN
+326,Smithers,54.7804,-127.1743,Snow,light rain and snow,-4.77,0.18,0.18,80,100,5.14,2023-02-09,CA
+327,Comodoro Rivadavia,-45.8667,-67.5,Clear,clear sky,25.32,25.92,25.92,29,0,8.23,2023-02-09,AR
+328,Grand Gaube,-20.0064,57.6608,Rain,light rain,31.33,27.99,28.22,75,17,3.13,2023-02-09,MU
+329,Husavik,66.0449,-17.3389,Snow,snow,-12.1,-5.1,-5.1,93,52,7.62,2023-02-09,IS
+330,Manthani,18.65,79.6667,Clouds,scattered clouds,25.1,25.88,25.88,22,27,2.47,2023-02-09,IN
+331,Tha Mai,12.6214,102.0048,Clouds,scattered clouds,39.5,32.5,33.01,75,26,1.69,2023-02-09,TH
+332,Bystryy Istok,52.371,84.3873,Clouds,overcast clouds,-15.72,-15.72,-15.72,95,93,1.18,2023-02-09,RU
+333,Saint Anthony,45.0205,-93.218,Clear,clear sky,-4.79,-1.43,0.53,86,0,2.57,2023-02-09,US
+334,Leningradskiy,69.3833,178.4167,Clouds,overcast clouds,-34.68,-27.68,-27.68,97,100,2.55,2023-02-09,RU
+335,Tiksi,71.6872,128.8694,Clouds,broken clouds,-46.37,-39.37,-39.37,98,59,2.35,2023-02-09,RU
+336,Vao,-22.6667,167.4833,Clouds,overcast clouds,26.16,26.16,26.16,81,100,6.2,2023-02-09,NC
+337,Nelson Bay,-32.7167,152.15,Rain,light rain,24.3,23.85,24.49,77,100,7.6,2023-02-09,AU
+338,Santa Cruz,-17.8,-63.1667,Clouds,broken clouds,25.52,24.7,24.7,88,75,2.57,2023-02-09,BO
+339,Maumere,-8.6199,122.2111,Clouds,overcast clouds,32.18,28.59,28.59,72,96,1.85,2023-02-09,ID
+340,Puerto Ayora,-0.7393,-90.3518,Rain,light rain,26.42,26.42,26.42,93,75,3.13,2023-02-09,EC
+341,Paso De Los Toros,-32.8167,-56.5167,Clouds,broken clouds,24.1,24.12,24.12,58,52,4.87,2023-02-09,UY
+342,Ostrovnoy,68.0531,39.5131,Clouds,overcast clouds,-6.84,0.16,0.16,85,100,17.88,2023-02-09,RU
+343,Viedma,-40.8135,-62.9967,Clouds,broken clouds,18.09,18.42,18.42,68,61,4.36,2023-02-09,AR
+344,Rincon,32.296,-81.2354,Clouds,few clouds,13.85,14.23,16.59,82,20,3.09,2023-02-09,US
+345,Svetlogorsk,52.6333,29.7333,Clouds,overcast clouds,-12.47,-7.89,-7.89,95,97,2.58,2023-02-09,BY
+346,Sur,22.5667,59.5289,Clear,clear sky,24.47,24.5,24.5,56,8,3.46,2023-02-09,OM
+347,Paracuru,-3.41,-39.0306,Clouds,overcast clouds,30.26,27.28,27.28,79,100,3.5,2023-02-09,BR
+348,Kijang,35.2442,129.2139,Clouds,overcast clouds,9.35,10.85,10.85,52,86,6.26,2023-02-09,KR
+349,Progreso,21.2833,-89.6667,Clear,clear sky,26.07,25.62,26.06,70,0,5.24,2023-02-09,MX
+350,Ust-Maya,60.4167,134.5333,Clouds,overcast clouds,-31.92,-31.92,-31.92,93,99,0.95,2023-02-09,RU
+351,Shaunavon,49.6501,-108.4181,Clouds,overcast clouds,-16.12,-9.12,-9.12,91,100,5,2023-02-09,CA
+352,Ugoofaaru,5.6667,73,Clouds,broken clouds,28.46,26.72,26.72,71,58,2,2023-02-09,MV
+353,Gorin,51.1983,136.6669,Clouds,overcast clouds,-19.76,-19.76,-19.76,78,91,1.15,2023-02-09,RU
+354,Umred,20.85,79.3333,Clouds,broken clouds,22.13,23.16,23.16,23,67,3.4,2023-02-09,IN
+355,Agadir,30.4202,-9.5982,Clear,clear sky,6.32,8.25,8.25,70,0,3.14,2023-02-09,MA
+356,Mirandopolis,-21.1336,-51.1017,Clouds,broken clouds,22.43,21.89,21.89,88,51,2.01,2023-02-09,BR
+357,Sioux Lookout,50.1001,-91.917,Snow,light snow,-3.65,-0.96,-0.96,69,100,2.06,2023-02-09,CA
+358,Maceio,-9.6658,-35.7353,Clouds,few clouds,23.47,22.69,22.69,94,20,1.54,2023-02-09,BR
+360,Brigantine,39.4101,-74.3646,Clouds,overcast clouds,4.64,5.42,5.57,95,96,1.34,2023-02-09,US
+361,Najran,17.4924,44.1277,Clouds,few clouds,10.75,12.36,12.36,42,19,0.84,2023-02-09,SA
+362,Nanortalik,60.1432,-45.2371,Clouds,overcast clouds,-8.42,-3.39,-3.39,87,100,3.97,2023-02-09,GL
+363,Narsaq,60.9167,-46.05,Clouds,overcast clouds,-15.26,-8.88,-8.88,93,100,4.07,2023-02-09,GL
+364,Raudeberg,61.9875,5.1352,Clouds,overcast clouds,-2.63,4.37,4.37,75,100,16.93,2023-02-09,NO
+365,Ayan,56.45,138.1667,Clouds,broken clouds,-28.47,-23.8,-23.8,59,61,1.36,2023-02-09,RU
+366,Peniche,39.3558,-9.3811,Clouds,scattered clouds,9.56,10.33,11.63,82,29,8.14,2023-02-09,PT
+367,Tula,54.2044,37.6111,Clouds,overcast clouds,-10.74,-7.05,-7.05,97,99,2.05,2023-02-09,RU
+368,Puerto Escondido,15.85,-97.0667,Clear,clear sky,25.04,24.83,24.83,64,0,2.43,2023-02-09,MX
+369,Acarau,-2.8856,-40.12,Clouds,overcast clouds,26.02,25.32,25.32,81,98,3.74,2023-02-09,BR
+370,Torre Santa Susanna,40.4656,17.7356,Clouds,overcast clouds,3.06,6.23,6.59,57,100,4.61,2023-02-09,IT
+372,Pacov,49.4708,15.0017,Clear,clear sky,-12.37,-5.37,-5.14,77,1,8.56,2023-02-09,CZ
+373,Kongoussi,13.3258,-1.5347,Clear,clear sky,21.96,23.19,23.19,15,5,3.19,2023-02-09,BF
+374,Yulara,-25.2406,130.9889,Clear,clear sky,35.98,38.68,38.68,12,5,2.54,2023-02-09,AU
+375,Padang,-0.9492,100.3543,Clouds,overcast clouds,30.72,28.03,28.03,70,97,1.85,2023-02-09,ID
+376,Charneca De Caparica,38.6206,-9.1915,Clouds,few clouds,7.14,9.34,11.04,73,20,4.12,2023-02-09,PT
+377,Lorengau,-2.0226,147.2712,Clouds,overcast clouds,31.63,28.72,28.72,67,100,4.53,2023-02-09,PG
+378,Boyuibe,-20.4167,-63.2833,Clouds,overcast clouds,20.84,20.3,20.3,94,100,1.43,2023-02-09,BO
+379,Chiang Klang,19.2938,100.8617,Clouds,few clouds,29.83,31.35,31.35,27,13,1.52,2023-02-09,TH
+380,Ixtlahuacan Del Rio,20.8667,-103.25,Clouds,few clouds,15.97,17.37,17.92,31,22,0.94,2023-02-09,MX
+381,Nyuksenitsa,60.4128,44.2397,Clouds,overcast clouds,-12.88,-8.28,-8.28,97,92,2.54,2023-02-09,RU
+382,Dalvik,65.9702,-18.5286,Snow,snow,-11.49,-5.04,-5.04,93,66,5.42,2023-02-09,IS
+383,Prince Rupert,54.3161,-130.3201,Rain,light rain,-2.9,4.1,4.83,86,100,15.95,2023-02-09,CA
+384,Potanino,55.1786,61.6222,Snow,light snow,-15.87,-8.87,-8.87,79,75,7,2023-02-09,RU
+385,Constitucion,-35.3333,-72.4167,Clouds,few clouds,15.37,15.83,15.83,73,12,4.81,2023-02-09,CL
+386,The Pas,53.8251,-101.2541,Clear,clear sky,-19.99,-12.99,-12.99,72,0,4.12,2023-02-09,CA
+387,Santa Rosa,14.3122,121.1114,Clouds,overcast clouds,32.61,29.58,30.06,63,100,6.88,2023-02-09,PH
+388,Kaitangata,-46.2817,169.8464,Clouds,broken clouds,12.91,14.06,14.06,53,83,4.58,2023-02-09,NZ
+390,Champerico,14.3,-91.9167,Clear,clear sky,25.84,25.3,25.3,75,3,3.95,2023-02-09,GT
+391,Merrill,45.1805,-89.6835,Clear,clear sky,-4.19,-4.19,-0.13,97,0,0,2023-02-09,US
+392,Polunochnoye,60.8697,60.4153,Clouds,broken clouds,-13,-6.76,-6.76,81,73,4.5,2023-02-09,RU
+393,Lydenburg,-25.0978,30.4597,Rain,light rain,16.79,16.55,16.55,97,98,0.77,2023-02-09,ZA
+394,Longyearbyen,78.2186,15.6401,Snow,snow,-13.09,-6.09,-6.09,79,100,7.72,2023-02-09,SJ
+395,Tulsipur,28.131,82.2973,Clear,clear sky,18.1,19.14,19.14,38,0,1.86,2023-02-09,NP
+397,Prata,-19.3072,-48.9242,Clouds,overcast clouds,22.3,21.77,21.77,88,94,1.25,2023-02-09,BR
+398,Torbay,47.6666,-52.7314,Snow,light snow,-7.95,-1.7,-1.45,94,100,6.69,2023-02-09,CA
+399,Praya,14.9215,-23.5087,Clouds,broken clouds,20.4,20.3,20.3,77,75,5.14,2023-02-09,CV
+400,Aksha,50.2814,113.2867,Clouds,broken clouds,-12.95,-12.95,-12.95,73,65,0.69,2023-02-09,RU
+401,San Patricio,28.017,-97.5169,Clouds,broken clouds,9.85,10.69,13.8,78,67,1.87,2023-02-09,US
+402,Zacatlan,19.9333,-97.9667,Clouds,overcast clouds,11.36,11.8,11.8,89,85,1.06,2023-02-09,MX
+403,Buxton,53.2574,-1.9098,Clouds,overcast clouds,3.89,3.89,4.61,89,100,0.89,2023-02-09,GB
+404,Portland,45.5234,-122.6762,Clouds,broken clouds,5.72,6.84,8.39,80,75,1.79,2023-02-09,US
+405,Kosa,59.9445,54.9977,Clouds,overcast clouds,-7.39,-2.56,-2.56,86,100,3.95,2023-02-09,RU
+406,Jinchang,38.4953,102.1739,Clear,clear sky,2.64,4.11,4.11,34,0,1.73,2023-02-09,CN
+407,Karangampel,-6.4622,108.4519,Clouds,overcast clouds,32.35,29.08,29.08,67,95,0.27,2023-02-09,ID
+408,Jieshi,22.8134,115.8257,Clouds,overcast clouds,18.62,18.59,18.59,81,100,7.02,2023-02-09,CN
+410,Laguna,38.421,-121.4238,Clear,clear sky,9.56,9.56,12.23,77,0,0,2023-02-09,US
+411,Hokitika,-42.7167,170.9667,Clouds,overcast clouds,15.94,16.84,16.84,52,94,5.58,2023-02-09,NZ
+412,Tornio,65.8481,24.1466,Clouds,overcast clouds,-4.91,2.01,2.01,89,100,11.95,2023-02-09,FI
+413,Paamiut,61.994,-49.6678,Snow,light snow,-8.86,-1.86,-1.86,87,100,11.17,2023-02-09,GL
+414,Bathsheba,13.2167,-59.5167,Clouds,few clouds,25.97,25.34,25.34,78,20,8.75,2023-02-09,BB
+415,Nohar,29.1833,74.7667,Clouds,few clouds,18.64,19.87,19.87,28,23,4.03,2023-02-09,IN
+416,Sosua,19.7667,-70.5167,Clouds,few clouds,23.38,22.99,22.99,78,23,5.12,2023-02-09,DO
+417,Roald,62.5833,6.1333,Clouds,few clouds,-1.01,4.89,6.53,70,20,11.83,2023-02-09,NO
+418,Mayya,61.7333,130.2811,Clouds,broken clouds,-44.38,-44.38,-44.38,92,79,0.95,2023-02-09,RU
+419,Moses Lake,47.1301,-119.2781,Clear,clear sky,-1.18,1.16,1.2,75,0,2.06,2023-02-09,US
+420,Cockburn Town,21.4612,-71.1419,Rain,light rain,25.34,24.79,24.79,77,9,11.12,2023-02-09,TC
+421,Qianan,44.9932,124.0581,Clouds,overcast clouds,-10.41,-5.39,-5.39,55,100,3.44,2023-02-09,CN
+422,Bonavista,48.6499,-53.1147,Clouds,overcast clouds,-9.79,-2.95,-2.95,86,100,7.17,2023-02-09,CA
+423,Saint-Pierre,-21.3393,55.4781,Clear,clear sky,29.73,27.82,27.82,65,0,3.6,2023-02-09,RE
+424,Mingshui,36.7167,117.5,Clouds,overcast clouds,5.5,6.81,6.81,44,100,1.98,2023-02-09,CN
+425,Jalu,29.0331,21.5482,Clouds,scattered clouds,8.44,10.12,10.12,48,43,6.55,2023-02-09,LY
+426,Marawi,7.9986,124.2928,Clouds,overcast clouds,24.36,23.86,23.86,79,96,3.46,2023-02-09,PH
+427,Williams Lake,52.1415,-122.1445,Clouds,overcast clouds,-8.11,-2.75,-0.24,94,100,4.63,2023-02-09,CA
+428,Saint-Georges,12.0564,-61.7485,Clouds,scattered clouds,26.49,25.82,25.82,78,40,2.57,2023-02-09,GD
+429,Lafia,8.4833,8.5167,Clouds,broken clouds,23.23,24.23,24.23,20,63,0.79,2023-02-09,NG
+430,Shubarkuduk,49.1447,56.4872,Clouds,broken clouds,-24.67,-18.93,-18.93,99,59,2.08,2023-02-09,KZ
+431,Baie-Comeau,49.2168,-68.1489,Clear,clear sky,-20.18,-13.18,-13.18,61,0,4.63,2023-02-09,CA
+432,Kyabe,9.4515,18.9449,Clouds,few clouds,19.47,20.86,20.86,18,17,2.42,2023-02-09,TD
+433,Mahibadhoo,3.7833,72.9667,Clouds,scattered clouds,28.99,27.08,27.08,70,43,3.12,2023-02-09,MV
+435,Lasa,46.6166,10.7002,Clouds,scattered clouds,-6.78,-6.78,-5.35,70,32,0.8,2023-02-09,IT
+436,Bundaberg,-24.85,152.35,Clouds,broken clouds,31.86,29.01,29.01,65,74,3.13,2023-02-09,AU
+437,Przasnysz,53.0191,20.8803,Clouds,overcast clouds,-11.64,-5.9,-5.9,80,89,4.13,2023-02-09,PL
+438,Cavalcante,-13.7975,-47.4583,Clouds,overcast clouds,22.19,21.91,21.91,78,100,1.29,2023-02-09,BR
+439,Hualmay,-11.0964,-77.6139,Clouds,few clouds,22.93,22.41,22.41,85,24,3.18,2023-02-09,PE
+441,Kualakapuas,-3.0091,114.3876,Rain,light rain,37.36,32.8,32.8,55,86,1.35,2023-02-09,ID
+442,Douentza,14.9951,-2.9517,Clear,clear sky,20.45,21.8,21.8,16,0,1.71,2023-02-09,ML
+443,Manicore,-5.8092,-61.3003,Rain,heavy intensity rain,23.46,22.59,22.59,98,38,1.02,2023-02-09,BR
+444,Semme,46.1963,1.5007,Clear,clear sky,-1.73,0.23,0.23,96,1,1.66,2023-02-09,FR
+445,Sabang,5.8933,95.3214,Clouds,broken clouds,30.56,27.69,27.69,74,76,6.06,2023-02-09,ID
+446,Port-Gentil,-0.7193,8.7815,Clouds,overcast clouds,30.13,27.13,27.13,81,99,4.41,2023-02-09,GA
+447,Saint-Francois,46.4154,3.9054,Mist,mist,-7.31,-7.31,-7.31,100,3,0,2023-02-09,FR
+448,Kalianget,-7.05,113.9333,Clouds,overcast clouds,30.48,27.23,27.23,82,99,5.42,2023-02-09,ID
+450,Balkhash,46.844,74.9804,Clouds,overcast clouds,-16.66,-9.66,-9.66,92,100,6,2023-02-09,KZ
+451,Barkly West,-28.5354,24.5215,Clouds,scattered clouds,15.49,15.6,15.6,87,25,2.2,2023-02-09,ZA
+452,Tessalit,20.1986,1.0114,Clear,clear sky,16.94,18.49,18.49,21,1,4.61,2023-02-09,ML
+453,Lima,-12.0432,-77.0282,Clouds,overcast clouds,24.95,24.39,24.39,79,100,6.17,2023-02-09,PE
+454,Manaure,11.7751,-72.4445,Clouds,broken clouds,26,25.42,25.42,76,55,8.37,2023-02-09,CO
+455,Grafton,42.207,-71.6856,Clear,clear sky,-3.19,1.21,4.26,66,0,4.63,2023-02-09,US
+456,Camana,-16.6228,-72.7111,Clouds,broken clouds,24.43,23.8,23.8,84,69,2.32,2023-02-09,PE
+457,Visnes,59.3556,5.2242,Clouds,broken clouds,0.77,6.04,6.79,65,76,10.8,2023-02-09,NO
+458,Santa Maria,-29.6842,-53.8069,Rain,light rain,23.18,23.4,23.4,53,17,2.98,2023-02-09,BR
+459,Abu Samrah,35.3029,37.1841,Clear,clear sky,0.8,0.8,0.8,69,0,1.12,2023-02-09,SY
+460,Rexburg,43.826,-111.7897,Clear,clear sky,-16.29,-11.79,-10.01,81,0,2.06,2023-02-09,US
+461,Udachnyy,66.4167,112.4,Clouds,overcast clouds,-40.64,-33.64,-33.64,74,95,2.26,2023-02-09,RU
+462,Saint-Ambroise,48.5501,-71.3324,Clouds,broken clouds,-13.82,-13.82,-13.82,99,74,0.95,2023-02-09,CA
+463,Yerbogachen,61.2767,108.0108,Clouds,overcast clouds,-21.84,-17.29,-17.29,94,100,1.65,2023-02-09,RU
+464,Chifeng,42.2683,118.9636,Clouds,overcast clouds,-6.12,-1.96,-1.96,34,100,3.29,2023-02-09,CN
+465,Dunedin,-45.8742,170.5036,Clouds,overcast clouds,12.9,14.03,14.03,54,91,6.32,2023-02-09,NZ
+466,Lodwar,3.1191,35.5973,Clear,clear sky,26.23,26.23,26.23,41,4,3.09,2023-02-09,KE
+467,Dongsheng,39.8161,109.9776,Clouds,scattered clouds,-7.41,-1.33,-1.33,62,46,6.54,2023-02-09,CN
+468,Ous,60.9058,61.5186,Clouds,broken clouds,-11.04,-5.65,-5.65,83,61,3.78,2023-02-09,RU
+469,Sirvintos,55.05,24.95,Clouds,overcast clouds,-6.09,-1.87,-1.87,92,90,3.38,2023-02-09,LT
+470,Monitos,8.25,-76.05,Clear,clear sky,25.52,24.6,24.6,92,9,3.66,2023-02-09,CO
+471,Pangnirtung,66.1451,-65.7125,Clouds,few clouds,-37.07,-30.07,-30.07,72,18,2.93,2023-02-09,CA
+472,Cururupu,-1.8283,-44.8683,Clouds,overcast clouds,24.04,23.16,23.16,96,99,0.82,2023-02-09,BR
+473,Ontario,34.0633,-117.6509,Clear,clear sky,12.64,14.03,16.48,44,0,3.6,2023-02-09,US
+474,Rocha,-34.4833,-54.3333,Clouds,few clouds,21.17,20.91,20.91,81,20,3.47,2023-02-09,UY
+475,Clyde River,70.4692,-68.5914,Haze,haze,-42.87,-35.87,-35.87,68,40,2.06,2023-02-09,CA
+477,Susaki,33.3667,133.2833,Clouds,overcast clouds,12.75,14.04,14.04,48,100,1.91,2023-02-09,JP
+478,Carutapera,-1.195,-46.02,Clouds,overcast clouds,25.17,24.33,24.33,90,100,1.79,2023-02-09,BR
+479,La Ronge,55.1001,-105.2842,Clear,clear sky,-15.86,-15.86,-15.86,85,0,0,2023-02-09,CA
+480,Akyab,20.15,92.9,Clouds,scattered clouds,23.81,24.26,24.26,41,33,1.91,2023-02-09,MM
+481,Thai Binh,20.45,106.3333,Clouds,overcast clouds,22.51,21.96,21.96,88,100,4.17,2023-02-09,VN
+482,Saint-Michel-Des-Saints,46.6834,-73.9159,Clouds,overcast clouds,-5.42,-5.42,-5.42,97,98,1.08,2023-02-09,CA
+483,Shima,24.4478,117.8111,Clouds,overcast clouds,16.91,17.01,17.01,82,100,0.93,2023-02-09,CN
+484,Les Escoumins,48.1111,-69.0236,Clouds,few clouds,-15.65,-10.36,-9.36,91,15,2.76,2023-02-09,CA
+486,Bugene,-1.5911,31.1403,Rain,light rain,14.12,14.14,14.14,96,84,1.07,2023-02-09,TZ
+487,San Vicente,-26.6167,-54.1333,Clouds,broken clouds,20.06,20.71,20.71,47,52,0.98,2023-02-09,AR
+488,Doka,13.5167,35.7667,Clear,clear sky,18.22,18.75,18.75,59,6,3.28,2023-02-09,SD
+489,Shetpe,44.1667,52.1167,Clouds,broken clouds,-14.63,-7.63,-7.63,79,59,6.62,2023-02-09,KZ
+490,Konstantinovskaya,44.0456,43.1583,Clouds,overcast clouds,-13.06,-13.06,-12.84,92,98,0.87,2023-02-09,RU
+491,Alofi,-19.0595,-169.9187,Clouds,overcast clouds,34.36,28.94,28.94,79,96,4.12,2023-02-09,NU
+492,Seymchan,62.8833,152.4333,Clouds,broken clouds,-34.17,-34.17,-34.17,92,54,1.2,2023-02-09,RU
+493,Turayf,31.6725,38.6637,Clouds,scattered clouds,-1.2,1.14,1.14,86,40,2.06,2023-02-09,SA
+494,Lhokseumawe,5.1801,97.1507,Clouds,overcast clouds,30.84,28.09,28.09,70,100,0.52,2023-02-09,ID
+495,Huntsville,34.7304,-86.5861,Clouds,broken clouds,19.16,19.25,20.63,74,75,5.66,2023-02-09,US
+497,Salina,38.8403,-97.6114,Clouds,overcast clouds,3.66,3.66,4.41,62,100,0,2023-02-09,US
+498,Czluchow,53.6672,17.3588,Clouds,overcast clouds,-9.9,-4.93,-4.93,91,85,3.49,2023-02-09,PL
+499,Mahebourg,-20.4081,57.7,Rain,light rain,31.56,28.16,28.16,74,75,7.2,2023-02-09,MU
+500,Arlit,18.7369,7.3853,Clear,clear sky,19.12,20.54,20.54,18,0,2.79,2023-02-09,NE
+501,Natal,-5.795,-35.2094,Clouds,few clouds,26.12,26.12,26.36,78,20,4.12,2023-02-09,BR
+502,Grindavik,63.8424,-22.4338,Clouds,broken clouds,-11.74,-4.74,-4.03,68,75,9.77,2023-02-09,IS
+503,Gidole,5.65,37.3667,Clear,clear sky,12.41,13.66,13.66,51,8,2.12,2023-02-09,ET
+504,Nara,34.6851,135.8049,Clouds,broken clouds,5.95,8.48,8.65,39,58,4.39,2023-02-09,JP
+505,Homer,59.6425,-151.5483,Clear,clear sky,-7.06,-7.06,-7.06,86,0,0,2023-02-09,US
+506,Prainha,-1.8,-53.48,Clouds,overcast clouds,24.19,23.3,23.3,96,100,1.07,2023-02-09,BR
+507,Phonhong,18.5007,102.4166,Clouds,few clouds,31.71,31.01,31.01,45,19,1.06,2023-02-09,LA
+508,Kawalu,-7.3817,108.2082,Clouds,overcast clouds,24.97,24.17,24.17,89,100,0.36,2023-02-09,ID
+509,Kodiak,57.79,-152.4072,Clear,clear sky,-10.54,-6.27,-6.27,45,0,2.57,2023-02-09,US
+510,Tonantins,-2.8731,-67.8022,Clouds,broken clouds,23.62,22.73,22.73,98,84,0.48,2023-02-09,BR
+511,Arrifes,37.7667,-25.7,Clouds,scattered clouds,10.16,11.14,11.14,71,40,3.6,2023-02-09,PT
+513,Townsville,-19.25,146.8,Clouds,scattered clouds,36.68,32.49,32.49,55,40,5.66,2023-02-09,AU
+514,Pathalgaon,22.5667,83.4667,Clouds,scattered clouds,20.86,22,22,23,27,1.33,2023-02-09,IN
+515,Bereda,43.2686,-7.5406,Clouds,broken clouds,-0.05,1.9,1.9,98,66,1.84,2023-02-09,ES
+516,Plettenberg Bay,-34.0527,23.3716,Clouds,few clouds,17.96,17.94,17.94,83,13,2.16,2023-02-09,ZA
+517,Ixtapa,20.7,-105.2,Clear,clear sky,19.88,19.57,19.57,88,0,0,2023-02-09,MX
+518,Kerman,30.2832,57.0788,Clear,clear sky,3.21,4.92,4.92,36,0,2.06,2023-02-09,IR
+519,Granadilla De Abona,28.1188,-16.576,Clouds,broken clouds,11.37,12.21,13.83,72,75,2.57,2023-02-09,ES
+520,Itoman,26.1247,127.6694,Clouds,broken clouds,22.92,22.74,23.01,71,75,5.66,2023-02-09,JP
+521,Eyl,7.9803,49.8164,Clouds,scattered clouds,23.21,22.69,22.69,84,31,5.39,2023-02-09,SO
+522,Griffith,41.5284,-87.4237,Clouds,overcast clouds,0.98,3.01,4.49,79,100,2.06,2023-02-09,US
+523,Srednekolymsk,67.45,153.6833,Clouds,overcast clouds,-39.88,-32.88,-32.88,96,100,2.89,2023-02-09,RU
+524,Xining,36.6167,101.7667,Clear,clear sky,-4.36,-2.1,-2.1,45,2,1.63,2023-02-09,CN
+526,Ningxiang,37.34,111.2052,Snow,light snow,-3.13,0.23,0.23,84,100,2.89,2023-02-09,CN
+527,Codrington,-38.2667,141.9667,Clear,clear sky,21.02,21.29,21.29,59,2,5.16,2023-02-09,AU
+528,Brandon,27.9378,-82.2859,Clear,clear sky,18.9,19.08,22.24,71,0,2.57,2023-02-09,US
+530,Guarapari,-20.6667,-40.4975,Clouds,overcast clouds,26.43,25.5,25.5,89,100,1.57,2023-02-09,BR
+532,Huarmey,-10.0681,-78.1522,Clear,clear sky,22.96,22.44,22.44,85,8,2.48,2023-02-09,PE
+533,Ondangwa,-17.9167,15.95,Clouds,overcast clouds,21.09,21.5,21.5,53,90,2.24,2023-02-09,NA
+534,Koungou,-12.7336,45.2042,Rain,light rain,32.14,27.84,27.84,83,75,3.6,2023-02-09,YT
+535,Sembakung,3.8167,117.25,Clouds,scattered clouds,34.29,31.7,31.7,52,46,1.1,2023-02-09,ID
+536,Mishan,45.55,131.8833,Clouds,few clouds,-13.42,-9.57,-9.57,71,19,1.89,2023-02-09,CN
+537,Ishigaki,24.3448,124.1572,Clouds,broken clouds,24.7,24.07,24.07,83,75,5.14,2023-02-09,JP
+538,Navirai,-23.065,-54.1906,Clouds,broken clouds,24.37,23.96,23.96,75,67,1.53,2023-02-09,BR
+539,Nioro,13.35,-15.75,Clear,clear sky,22.82,23.9,23.9,18,0,1.34,2023-02-09,GM
+540,Ambilobe,-13.2,49.05,Clouds,broken clouds,24.83,24,24,91,78,1.02,2023-02-09,MG
+541,Kouango,4.9934,19.9619,Clouds,broken clouds,20.34,21.6,21.6,20,75,1.57,2023-02-09,CF
+542,Tateyama,34.9833,139.8667,Clouds,scattered clouds,5.75,8.92,8.92,41,40,6.36,2023-02-09,JP
+543,Colares,38.7992,-9.4469,Clear,clear sky,9.59,10.33,11.29,83,9,6.71,2023-02-09,PT
+544,Rio Grande,-32.035,-52.0986,Clouds,overcast clouds,25.14,24.52,24.52,81,89,8.13,2023-02-09,BR
+545,Pacific Grove,36.6177,-121.9166,Clear,clear sky,8.79,9.7,11.42,87,0,2.06,2023-02-09,US
+546,Viana,-20.3903,-40.4961,Rain,moderate rain,26.54,25.43,25.87,96,100,1.04,2023-02-09,BR
+547,Ntungamo,-0.8833,29.65,Clouds,scattered clouds,17.59,18.2,18.2,58,37,1.33,2023-02-09,UG
+548,Mabaruma,8.2,-59.7833,Clouds,broken clouds,22.59,21.8,21.8,98,81,1.19,2023-02-09,GY
+549,Okhotsk,59.3833,143.3,Clouds,few clouds,-32.11,-25.11,-25.11,80,20,6.18,2023-02-09,RU
+551,Ponerihouen,-21.0833,165.4,Rain,moderate rain,31.39,27.83,27.83,78,100,1.15,2023-02-09,NC
+552,Russell,32.3502,-85.1999,Clouds,overcast clouds,17.43,17.72,19.57,72,100,3.08,2023-02-09,US
+553,Port Keats,-14.25,129.55,Rain,moderate rain,36.91,31.8,31.8,61,74,2.55,2023-02-09,AU
+554,Lompoc,34.6391,-120.4579,Clear,clear sky,10.6,11.25,12.55,83,0,5.14,2023-02-09,US
+555,Kilembe,0.2,30,Clouds,broken clouds,17.56,18.43,18.43,47,79,1.07,2023-02-09,UG
+556,Kolondieba,11.0882,-6.8926,Clouds,scattered clouds,25.81,25.79,25.79,53,35,1.23,2023-02-09,ML
+557,Visby,57.6409,18.296,Clear,clear sky,-4.35,2.09,2.12,80,0,10.29,2023-02-09,SE
+558,Kabanjahe,3.1001,98.4908,Clouds,overcast clouds,24.37,24.17,24.17,66,93,0.95,2023-02-09,ID
+559,Masterton,-40.9597,175.6575,Clouds,overcast clouds,14.24,14.28,14.28,95,87,2.8,2023-02-09,NZ
+560,Brigham City,41.5102,-112.0155,Clear,clear sky,-8.7,-4.79,-1.99,68,0,2.5,2023-02-09,US
+562,Jiuquan,39.7432,98.5174,Clear,clear sky,-2.05,1.92,1.92,41,1,4.19,2023-02-09,CN
+563,Anshun,26.25,105.9333,Clouds,overcast clouds,6.82,8.64,8.64,76,100,3.1,2023-02-09,CN
+564,Dashitou,43.3067,128.5114,Clouds,broken clouds,-6.34,-6.34,-6.34,57,67,0.76,2023-02-09,CN
+565,Tymovskoye,50.8456,142.655,Clouds,broken clouds,-29.71,-22.71,-22.71,78,59,2.53,2023-02-09,RU
+566,Islamabad,33.7104,73.1338,Clouds,overcast clouds,11.71,12.69,12.69,65,100,1,2023-02-09,PK
+567,Sumter,28.7086,-82.0831,Clouds,scattered clouds,17.4,17.6,18.97,76,36,3.04,2023-02-09,US
+570,Strezhevoy,60.7333,77.5889,Snow,light snow,-22.92,-15.92,-15.92,96,100,4.03,2023-02-09,RU
+571,Abancay,-13.6339,-72.8814,Clouds,overcast clouds,13.8,13.88,13.88,95,98,1.4,2023-02-09,PE
+572,Kazanka,47.8462,32.8218,Clear,clear sky,-14,-8.27,-8.27,85,5,3.53,2023-02-09,UA
+573,Tevaitoa,-16.7833,-151.5,Rain,light rain,29.22,27.06,27.06,73,16,3.14,2023-02-09,PF
+574,Monrovia,6.3005,-10.7969,Rain,light rain,23.43,22.87,22.87,85,88,1.81,2023-02-09,LR
+575,Pangai,-19.8,-174.35,Clouds,broken clouds,32.86,29.06,29.06,70,75,3.6,2023-02-09,TO
+576,Honningsvag,70.9821,25.9704,Rain,light rain,-3.99,1.86,1.86,69,40,8.23,2023-02-09,NO
+577,Zmeinogorsk,51.1567,82.195,Snow,light snow,-14.15,-10.74,-10.74,95,100,1.57,2023-02-09,RU
+578,Cam Ranh,11.9214,109.1591,Clouds,scattered clouds,32.68,28.98,28.98,70,40,3.6,2023-02-09,VN
+579,Hastings,50.8552,0.5729,Clouds,overcast clouds,-2.72,0.84,4.18,55,90,3.28,2023-02-09,GB
+580,Jam Sahib,26.2958,68.6292,Clear,clear sky,16.47,18.01,18.01,23,0,1.62,2023-02-09,PK
+581,Toora-Khem,52.4675,96.11,Clouds,overcast clouds,-12.22,-12.22,-12.22,90,100,0.61,2023-02-09,RU
+582,Beroroha,-21.6667,45.1667,Clouds,overcast clouds,24.26,23.69,23.69,82,100,0.81,2023-02-09,MG
+583,Tashtyp,52.7939,89.8983,Clouds,overcast clouds,-9.99,-9.99,-9.99,93,100,0.76,2023-02-09,RU
+584,Vila Velha,-20.3297,-40.2925,Rain,light rain,26.41,25.53,25.97,87,40,2.57,2023-02-09,BR
+586,Vilhena,-12.7406,-60.1458,Clouds,overcast clouds,21.08,20.49,20.49,95,100,0.66,2023-02-09,BR
+587,San Joaquin,37.9333,-121.3011,Clear,clear sky,9.86,9.86,11.1,78,0,0,2023-02-09,US
+588,Sorada,19.75,84.4333,Clear,clear sky,27.56,29.19,29.19,18,3,1.13,2023-02-09,IN
+589,Caravelas,-17.7125,-39.2481,Clouds,scattered clouds,24.69,23.97,23.97,87,41,2.33,2023-02-09,BR
+590,Toplet,44.7972,22.3944,Clouds,broken clouds,-6.73,-4.15,-4.15,92,79,1.64,2023-02-09,RO
+591,Yuksekova,37.5736,44.2872,Mist,mist,-18.14,-18.14,-18.14,85,75,0.51,2023-02-09,TR
+592,Traverse City,44.7631,-85.6206,Clear,clear sky,-0.05,-0.05,2.13,80,0,0,2023-02-09,US
+593,Ciudad Bolivar,8.1222,-63.5497,Clouds,scattered clouds,25.55,25.13,25.13,71,49,5.26,2023-02-09,VE
+594,Tiarei,-17.5333,-149.3333,Clear,clear sky,33.13,29.01,29.01,72,6,2.57,2023-02-09,PF
+595,Thurso,58.5927,-3.5259,Rain,moderate rain,-3.86,3.14,4.36,73,94,14.7,2023-02-09,GB
+596,Karatuzskoye,53.6072,92.8667,Snow,light snow,-9.84,-9.84,-9.84,91,100,1.31,2023-02-09,RU
+597,Balabac,7.9868,117.0645,Clouds,broken clouds,30.96,27.88,27.88,74,54,7.23,2023-02-09,PH
+598,Bonga,7.2833,36.2333,Clear,clear sky,13.21,14.15,14.15,61,3,0.82,2023-02-09,ET
+599,Baculin,7.4525,126.5842,Clouds,overcast clouds,31.48,28.41,28.41,70,99,4.16,2023-02-09,PH
+600,Aygehovit,40.9795,45.2503,Snow,light snow,-0.64,-0.64,-0.64,96,100,0.5,2023-02-09,AM
+601,Hamilton,39.1834,-84.5333,Mist,mist,6.85,9.11,10.55,94,100,4.12,2023-02-09,US
+602,Lithakia,37.7167,20.8333,Clouds,overcast clouds,-9.07,-2.35,-2.35,56,100,7.29,2023-02-09,GR
+603,Morshansk,53.4435,41.8107,Clouds,overcast clouds,-10.82,-7.97,-7.97,96,100,1.49,2023-02-09,RU
+604,Portobelo,9.55,-79.65,Rain,light rain,22.78,22.25,23.95,86,56,7.29,2023-02-09,PA
+606,Haimen,23.1935,116.6142,Clouds,overcast clouds,16.91,16.94,16.94,85,100,6.44,2023-02-09,CN
+607,Singarayakonda,15.25,80.0333,Clouds,broken clouds,26.08,26.08,26.08,60,80,1.21,2023-02-09,IN
+608,Amantea,39.1332,16.0746,Clouds,overcast clouds,1.11,5.03,5.97,83,100,5.58,2023-02-09,IT
+609,Souillac,-20.5167,57.5167,Clouds,broken clouds,31.67,28.21,28.21,74,75,7.2,2023-02-09,MU
+610,Nantucket,41.2835,-70.0995,Clear,clear sky,1.47,4.48,6.08,64,0,3.6,2023-02-09,US
+611,Makhu,31.1033,74.9978,Clouds,broken clouds,16.15,17.32,17.32,40,70,0.98,2023-02-09,IN
+612,Xuddur,4.1213,43.8894,Clear,clear sky,20.67,20.6,20.6,75,8,6.28,2023-02-09,SO
+613,Wanaka,-44.7,169.15,Clouds,few clouds,16.39,17.73,17.73,32,16,1.8,2023-02-09,NZ
+614,Iquique,-20.2208,-70.1431,Clear,clear sky,23.52,23.02,23.02,82,10,0.78,2023-02-09,CL
+615,Praia,14.9215,-23.5087,Clouds,broken clouds,20.4,20.3,20.3,77,75,5.14,2023-02-09,CV
+616,Te Anau,-45.4167,167.7167,Clouds,scattered clouds,14.46,15.83,15.83,38,41,1.38,2023-02-09,NZ
+617,Merauke,-8.4667,140.3333,Clouds,broken clouds,31.93,27.76,27.76,83,83,5.74,2023-02-09,ID
+618,Campbell River,50.0163,-125.2446,Mist,mist,-0.1,4.1,5.74,100,100,5.66,2023-02-09,CA
